@@ -14,9 +14,9 @@ website:
       <p> It will not have forecast of return. Meanwhile, follow me on the social networks below. </p>
 
   title: Typing
-  description: Typing - A Theme for Jekyll
+  description: Sini - Nettisivu 
   launch: 2016
-  avatar: typing.svg
+  avatar: sini.jpg
   metatag:
     google-site-verification:
     type: "WebSite"
@@ -32,11 +32,11 @@ website:
       id:  # tracking id, e.g. "UA-000000-01"
       events: true # Use: true | false . Events Google Analytics
   author:
-    image: typing.svg
+    image: sini.jpg
   strings:
     sidebar:
       title: |
-        Hey, <br> I'm Typing.
+        Yo!, <br> I'm Typing.
       links:
         home: Hello
     footer:
@@ -81,7 +81,7 @@ website:
 # Category: User Data.
 userdata:
   email: youremail@domain.com
-  twitter: "@my_twitter"
+  twitter: "@SiniNumminen"
   disqus:
     username:
   # You can add at most 4 social.
@@ -89,10 +89,10 @@ userdata:
     title: Follow Me!
     ga_event: true # Google Analytics Event (Hit). Usage: true | false
     links:
-      - title: GitHub
-        id: github
-        icon: fa-github
-        url: https://github.com
+      #- title: GitHub
+      #  id: github
+      #  icon: fa-github
+      #  url: https://github.com
       - title: Twitter
         id: twitter
         icon: fa-twitter
