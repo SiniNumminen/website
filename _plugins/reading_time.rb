@@ -2,7 +2,6 @@
 #
 # Plugin:       Read Time
 # Description:  Outputs the reading time
-# Author:       williamcanin - https://github.com/williamcanin
 #
 # Install:      Put into your _plugins dir in your Jekyll site
 # Usage:        Read this in about {{ page.content | reading_time }}

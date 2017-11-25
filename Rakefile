@@ -1,8 +1,5 @@
 # File: Rakefile
 # Language: RakeFile
-# Country/State: Brazil/SP
-# Author : William C. Canin <http://williamcanin.github.com>
-# Page author: http://williamcanin.com
 # Description: Task creation file for the 'config.rb' file.
 
 require './sources/lib/rb/config.rb'
