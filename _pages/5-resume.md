@@ -19,7 +19,7 @@ menu: true
 btnprint: true
 
 excerpt: |
-    This is my resume. On this page you can print using the browser shortcut (Ctrl + P) or using the 'Print' Button as well.
+    Olen Tiina ja Antti Herlinin säätiön apurahatutkija Aalto-yliopistossa. Väitöskirjatyössäni tutkin uusiutuvan energian tuotantoteknologioita ja energian käyttöä köyhillä haja-asutusalueilla (off-grid) Pohjois-Intiassa. Case-kohteena on matalajännitteinen ja tasavirralla toimiva aurinkosähköverkko, jota asiakkaat voivat käyttää pre-paid -muotoisesti. Keskeistä on arvioida, mikä on tällaisten pienten eli frugaalien energiateknologioiden rooli ja merkitys tarjota energiapalveluita köyhissä kehitysmaissa pitkällä aikavälillä ja kestävästi (sustainable development).
 
 tcontents:
   enable: true

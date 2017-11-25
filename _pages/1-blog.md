@@ -8,8 +8,8 @@ ga_event: false
 # Icon feature uses Font Awesome
 icon: fa-edit
 
-# Strings used for posts counter message
-msg_qtd: ['There are','posts in total.']
+## Strings used for posts counter message
+#msg_qtd: ['There are','posts in total.']
 
 # Enable / Disable 'Tag' and 'Search' buttons in the post listing layout.
 buttons: false
@@ -25,4 +25,5 @@ script: [postlist.js]
 permalink: /blogs
 ---
 
-What follows is a list of weblog posts from as early as {{ site.debutyear }}. I hope you enjoy
+I am a Doctoral researcher @AaltoUniversity of low-cost energy solutions for #Offgrid #India. 
+

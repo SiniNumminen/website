@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "15 W panels"
+title:  "Micro-grid installations and other low-power equipment"
 date:   2017-11-21 05:16:01 -0300 
 categories: blog
 tags: ['example','welcome','jekyll', 'typing', 'responsive', 'simple']
