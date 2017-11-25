@@ -22,7 +22,7 @@ published: true
 # Does not change and does not remove 'script' variables
 script: [postlist.js]
 
-permalink: /blog/
+permalink: /blogs
 ---
 
-hat follows is a list of weblog posts from as early as {{ site.debutyear }}. I hope you enjoy
+What follows is a list of weblog posts from as early as {{ site.debutyear }}. I hope you enjoy

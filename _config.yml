@@ -72,7 +72,7 @@ spotify:
 #  --- SESSION PRIVATE [Do not change anything in the private session unless you know what you are doing.] ---
 
 # Settings Default
-include: ['_pages','_blog','_hello']
+include: ['_pages','_blog']
 markdown: kramdown
 highlighter: pygments
 permalink: /blog/:title/
