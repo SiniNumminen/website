@@ -7,18 +7,13 @@ tags: ['energy','rural India']
 published: true
 comments: true 
 excerpted: |
-    You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site ...
-day_quote:
-    title: "Quote Day"
-    content: |
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
-        (Mr. Lorem)
+    Uttar Pradesh is one of the most energy poor states in India, where the majority of people do not have access...
 
 # Does not change and does not remove 'script' variables
 script: [post.js]
 ---
 
-Uttar Pradesh is one of the most energy poor states in India, where the majority of people do not have acces to electricity. Here are some images of the things I witnessed during my research trips to the rural areas.
+Uttar Pradesh is one of the most energy poor states in India, where the majority of people do not have access to electricity. Here are some images of the things I witnessed during my research trips to the rural areas.
 
 
 <br>
@@ -41,10 +36,6 @@ Solar suits well for rural off-grid areas especially due to abundant amounts of 
 <br>
 {% imager scenery_village_roofs.jpg|center %}
 Micro-grid villages photographed from a rooftop. In the background high voltage substation.
-
-<br>
-{% imager kerosene_lamp.jpg|center %}
-Kerosene lamps are still widely used for lighting in Indian countryside homes. They produce dangerous exhaust fumes.
 
 <br>
 {% imager scenery_buffalo_dung.jpg|center %}

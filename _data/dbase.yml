@@ -8,13 +8,13 @@ website:
   under_maintenance:
     enable: false
     title: |
-     <p> Sorry :( </p>
+     <p> Sorry </p>
       The domain of my site is under maintenance.
     subtitle: |
-      <p> It will not have forecast of return. Meanwhile, follow me on the social networks below. </p>
+      <p> Meanwhile, you can follow me on Twitter. </p>
 
-  title: PhD Project
-  description: Sini 
+  title: Energy in off-grid India
+  description: Research 
   launch: 2017
   avatar: sini.jpg
   metatag:
@@ -36,7 +36,7 @@ website:
   strings:
     sidebar:
       title: |
-        Yo!, <br> I'm Typing.
+        Pictures <br> from India
     footer:
       message: Simplicity is fashionable.
     comments:
@@ -44,11 +44,11 @@ website:
       disable: The comment for this post is disabled.
     # The Contact, uses the Formspree service. Need to register for the service.
     contact:
-      btn-send: Go, message!
+      btn-send: Send
       placeholder:
         name: Your full name
         email: Your email
-        message: What would you like to say?
+        message: Your message
     resume:
       btnprint: Print
     postlist:
@@ -64,7 +64,7 @@ website:
         placeholder: ['Search in','article(s)']
         onfocus: "Search by: title or tags"
         onblur: ['Search','article(s)']
-        notfound: "Oh heavens, no results :("
+        notfound: "No results"
     share_social:
       title: "Share"
       facebook:
