@@ -64,9 +64,7 @@ Dried buffalo dung cakes are used as fuel in kitchen stoves, for making food.
 {% imager research_team.jpg|left|50% %}
 Field workers from the local research company interviewing the locals on their energy consumption and satisfaction on micro grid service.
 
-
 <div style="clear:both;"></div>
-
 
 {% endpost #9D9D9D %}
 

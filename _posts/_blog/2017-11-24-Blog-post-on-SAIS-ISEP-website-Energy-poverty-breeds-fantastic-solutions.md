@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Energy poverty breeds fantastic solutions and surprising behaviours"
-date:   2017-11-21 05:16:01 -0300 
+date:   2017-12-05 05:16:01 +0300 
 categories: blog
 tags: ['energy','rural India', 'off-grid']
 published: true

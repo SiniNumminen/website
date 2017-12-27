@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Some low power equipment"
-date:   2017-11-21 05:16:01 -0300 
+date:   2017-11-21 05:16:01 +0300 
 categories: blog
 tags: ['energy','rural India']
 published: true
@@ -15,49 +15,34 @@ script: [post.js]
 
 Local entrepreneur has setup micro-grids in seven villages in Uttar Pradesh, India. Locals are innovative in their energy use.
 
-# Pictures
-<br>
-
-## {% fa fa-file-image-o|20px %} How about this
-
+<div style="clear:both;"></div>
 
 <br>
-{% imager DC_solar_gadgets_PV.jpg|center %}
+{% imager DC_solar_gadgets_PV.jpg|left|50% %}
 A variety of solar panels pop up on rooftops. These private panels have a nominal capacity of 15 W and they are used for charging mobile phones directly without a controller. Lack of a charge controller feeds an unregulated current to devices which damages them.
 
-<br>
-{% imager DC_battery_motorcycle.jpg|center %}
+<div style="clear:both;">
+---
+</div>
+
+{% imager DC_battery_motorcycle.jpg|left|50% %}
 This is an old motocycle battery which was configured by locals to power up an extra light bulb in the corridor of their house.
 
+<div style="clear:both;">
+---
+</div>
 
-<br>
-{% imager DC_radio.jpg|center %}
+{% imager DC_radio.jpg|left|50% %}
 DC_radio.jpg
 
+<div style="clear:both;">
+---
+</div>
 
-<br>
-{% imager DC_workshop.JPG|center %}
+{% imager DC_workshop.JPG|left|50% %}
 ”DC (direct current) is common knowledge”, I learned. This boy shows me how he had repaired a broken socket in his home.
 
-<br>
-<br>
-
-
-<br>
-<br>
-
-{% label Ruby|10px %}
-{% label HTML5|20px %}
-{% label CSS3|30px %}
-{% label JQuery|40px %}
-
-<br>
-<br>
-
-
-
-<br>
-
+<div style="clear:both;"></div>
 
 {% endpost #9D9D9D %}
 
