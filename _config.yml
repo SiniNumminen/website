@@ -74,6 +74,10 @@ spotify:
 # Settings Default
 include: ['_pages','_blog']
 markdown: kramdown
+kramdown:
+  parse_block_html: true
+  input: GFM
+
 highlighter: pygments
 permalink: /blog/:title/
 

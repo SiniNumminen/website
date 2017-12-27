@@ -17,10 +17,10 @@
   },
   "en_US":{
     "ReadingTime":{
-      "longtext": "Read this in \"about ",
-      "shorttext": "Read this \"Within 1 minute\".",
-      "pword": "minutes\".",
-      "sword": "minute\"."
+      "longtext": "Reading time:",
+      "shorttext": "Reading time:",
+      "pword": "minutes.",
+      "sword": "minute."
     }
   },
   "es_ES":{
