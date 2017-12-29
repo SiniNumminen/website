@@ -39,6 +39,13 @@ Typically this is how the setup of a microgrid was demonstrated in the household
 ---
 </div>
 
+{% imager DC_energy_meter_stained.jpg|left|50% %}
+Smoke from indoor cooking stoves and kerosene lamps have stained the electrical installations in this home.
+
+<div style="clear:both;">
+---
+</div>
+
 {% imager DC_socket.JPG|left|50% %}
 DC_socket.JPG
 

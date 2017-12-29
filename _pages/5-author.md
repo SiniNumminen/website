@@ -19,7 +19,7 @@ menu: true
 btnprint: true
 
 excerpt: |
-    I am a PhD student and an electrical engineer from Finland. I study off-grid solar micro-grids and energy access in India, with the special focus on the technical reliability and sustainability. In 2016, I participated in an extensive measurement experiment of PV micro-grid supply and demand in Uttar Pradesh in India in collaboration with Columbia University and Boond Ltd, an Indian social entrepreneur. Olen Tiina ja Antti Herlinin säätiön apurahatutkija Aalto-yliopistossa. Väitöskirjatyössäni tutkin uusiutuvan energian tuotantoteknologioita ja energian käyttöä köyhillä haja-asutusalueilla (off-grid) Pohjois-Intiassa. Case-kohteena on matalajännitteinen ja tasavirralla toimiva aurinkosähköverkko, jota asiakkaat voivat käyttää pre-paid -muotoisesti. Keskeistä on arvioida, mikä on tällaisten pienten eli frugaalien energiateknologioiden rooli ja merkitys tarjota energiapalveluita köyhissä kehitysmaissa pitkällä aikavälillä ja kestävästi (sustainable development).
+    I am a PhD student and an electrical engineer from Finland. I study off-grid solar micro-grids and energy access in India, with the special focus on the technical reliability and sustainability.
 
 tcontents:
   enable: true
@@ -48,10 +48,12 @@ script: [resume.js]
 permalink: /Author/
 ---
 
-#  Typing
-### A theme for Jekyll
+#  Author
+### Sini Numminen, M.Sc.(Tech.)
 
 <br>
+
+ I am a PhD student and an electrical engineer from Finland. I study off-grid solar micro-grids and energy access in India, with the special focus on the technical reliability and sustainability. In 2016, I participated in an extensive measurement experiment of PV micro-grid supply and demand in Uttar Pradesh in India in collaboration with Columbia University and Boond Ltd, an Indian social entrepreneur. Olen Tiina ja Antti Herlinin säätiön apurahatutkija Aalto-yliopistossa. Väitöskirjatyössäni tutkin uusiutuvan energian tuotantoteknologioita ja energian käyttöä köyhillä haja-asutusalueilla (off-grid) Pohjois-Intiassa. Case-kohteena on matalajännitteinen ja tasavirralla toimiva aurinkosähköverkko, jota asiakkaat voivat käyttää pre-paid -muotoisesti. Keskeistä on arvioida, mikä on tällaisten pienten eli frugaalien energiateknologioiden rooli ja merkitys tarjota energiapalveluita köyhissä kehitysmaissa pitkällä aikavälillä ja kestävästi (sustainable development).
 
 ## Personal Data
 

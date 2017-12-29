@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Rural Indian energy sceneries	"
-date:   2017-12-31 05:16:01 +0300 
+date:   2017-12-21 05:16:01 +0300 
 categories: blog
 tags: ['energy','rural India']
 published: true
@@ -56,6 +56,13 @@ Micro-grid villages photographed from a rooftop. In the background high voltage 
 
 {% imager scenery_buffalo_dung.jpg|left|50% %}
 Dried buffalo dung cakes are used as fuel in kitchen stoves, for making food.
+
+<div style="clear:both;">
+---
+</div>
+
+{% imager kerosene_lamp.jpg|left|50% %}
+Kerosene lamps are still widely used for lighting in Indian countryside homes. Kerosene is subsidied by the state and well available around the country. They produce dangerous exhaust fumes.
 
 <div style="clear:both;">
 ---
