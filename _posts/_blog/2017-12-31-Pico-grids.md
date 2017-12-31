@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Smart energy meter"
-date:   2017-11-21 05:16:01 +0300 
+title:  "Pico-grids"
+date:   2017-12-31 05:16:01 +0300 
 categories: blog
 tags: ['energy','rural India']
 published: true
@@ -48,6 +48,13 @@ Smoke from indoor cooking stoves and kerosene lamps have stained the electrical 
 
 {% imager DC_socket.JPG|left|50% %}
 DC_socket.JPG
+
+<div style="clear:both;">
+---
+</div>
+{% imager research_team.jpg|left|50% %}
+Field workers from the local research company interviewing the locals on their energy consumption and satisfaction on micro grid service.
+
 
 <div style="clear:both;"></div>
 

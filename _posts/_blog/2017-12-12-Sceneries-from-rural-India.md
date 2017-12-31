@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Rural Indian energy sceneries	"
-date:   2017-12-21 05:16:01 +0300 
+title:  "Sceneries from rural India"
+date:   2017-12-12 05:16:01 -0300 
 categories: blog
 tags: ['energy','rural India']
 published: true
@@ -13,7 +13,9 @@ excerpted: |
 script: [post.js]
 ---
 
-Uttar Pradesh is one of the most energy poor states in India, where the majority of people do not have access to electricity. Here are some images of the things I witnessed during my research trips to the rural areas.
+Uttar Pradesh is one of the most energy poor states in India, where the majority of people do not have access to electricity. Here are some images of the things I witnessed during my research trips to the rural areas. Energy poverty is overwhelming which leads people to pendle between a variety of energy sources. Living under the grid shows 
+
+These pictures are from the northern Indian state Uttar Pradesh, near the city of Unnao. 
 
 <div style="clear:both;"></div>
 
@@ -68,8 +70,23 @@ Kerosene lamps are still widely used for lighting in Indian countryside homes. K
 ---
 </div>
 
-{% imager research_team.jpg|left|50% %}
-Field workers from the local research company interviewing the locals on their energy consumption and satisfaction on micro grid service.
+{% imager DC_battery_motorcycle.jpg|left|50% %}
+This is an old motocycle battery which was configured by locals to power up an extra light bulb in the corridor of their house.
+
+<div style="clear:both;">
+---
+</div>
+
+{% imager DC_radio.jpg|left|50% %}
+DC_radio.jpg
+
+<div style="clear:both;">
+---
+</div>
+
+{% imager DC_workshop.JPG|left|50% %}
+”DC (direct current) is common knowledge”, I learned. This boy shows me how he had repaired a broken socket in his home.
+
 
 <div style="clear:both;"></div>
 
