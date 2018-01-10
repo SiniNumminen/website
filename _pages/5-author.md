@@ -18,28 +18,6 @@ menu: true
 # Enable / Disable button for print resume.
 btnprint: true
 
-excerpt: |
-    I am a PhD student and an electrical engineer from Finland. I study off-grid solar micro-grids and energy access in India, with the special focus on the technical reliability and sustainability.
-
-tcontents:
-  enable: true
-  title: Table Of Contents
-  links:
-    - name: Personal Data
-      id: "#personal-data"
-    - name: Biography
-      id: "#biography"
-    - name: Objetive
-      id: "#objetive"      
-    - name: Education
-      id: "#education"
-    - name: Skills
-      id: "#skills"
-    - name: Projects
-      id: "#projects"
-    - name: Languages
-      id: "#languages"   
-
 published: true
 
 # Does not change and does not remove 'script' variables
@@ -48,91 +26,39 @@ script: [resume.js]
 permalink: /Author/
 ---
 
-#  Author
 ### Sini Numminen, M.Sc.(Tech.)
 
 <br>
 
- I am a PhD student and an electrical engineer from Finland. I study off-grid solar micro-grids and energy access in India, with the special focus on the technical reliability and sustainability. In 2016, I participated in an extensive measurement experiment of PV micro-grid supply and demand in Uttar Pradesh in India in collaboration with Columbia University and Boond Ltd, an Indian social entrepreneur. Olen Tiina ja Antti Herlinin säätiön apurahatutkija Aalto-yliopistossa. Väitöskirjatyössäni tutkin uusiutuvan energian tuotantoteknologioita ja energian käyttöä köyhillä haja-asutusalueilla (off-grid) Pohjois-Intiassa. Case-kohteena on matalajännitteinen ja tasavirralla toimiva aurinkosähköverkko, jota asiakkaat voivat käyttää pre-paid -muotoisesti. Keskeistä on arvioida, mikä on tällaisten pienten eli frugaalien energiateknologioiden rooli ja merkitys tarjota energiapalveluita köyhissä kehitysmaissa pitkällä aikavälillä ja kestävästi (sustainable development).
+Affordable technical solutions are a key in relieving energy poverty among the poorest customer groups in developing countries. I am a PhD student at the School of Science at Aalto University, Finland. My topic is off-grid and island solutions and PV (photovoltaic) technologies and India. Special focus is on the technical reliability and sustainability and quality questions of energy technologies that are manufactured low-cost. 
+
+In 2009 I graduated from Helsinki University of Technology in Electrical Engineering with a minor in Development Studies at the Department of Social Sciences in Helsinki University. After graduation I worked in Germany as a researcher in a European association Distributed Energy Resources Laboratories (DERlab) where I gained a strong insight on the potential of renewable and distributed power units and the smart grids concept.
+
+My PhD work is supported by a research grant from the Tiina and Antti Herlin Foundation, Finland.
 
 ## Personal Data
 
-**Nationality**: Brazilian   
-**Date of Birth**: 2017/04/05   
-**Marital Status**: Single   
-**Home Address**: Lorem, Lorem Ipsum, 789 / Dolor  
-**Country**: Brazil   
-**Province**: Lorem Ipsum/LI   
-**Telephone**: +55 011 1234 5678   
-**Email**: your-email@example.com   
-**Website**: [my-web-site.domain](http://williamcanin.com)   
-
-
-## Biography
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate aliquid, alias voluptatibus vel eligendi eveniet. Quas rem, repellendus deleniti nostrum minima delectus maxime fugiat, voluptates modi, laudantium, natus eligendi <sequi class="Lorem">Lorem ipsum dolor sit amet, consectetur adipisicing elit. At non quibusdam repellat commodi veniam ab voluptate odio recusandae earum, magnam dolore architecto dolorem. Sint dolor deserunt, molestiae soluta, consequatur non!</sequi>
-
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi unde earum itaque saepe voluptatum distinctio soluta provident repudiandae mollitia similique repellat eum incidunt quo, tenetur quasi voluptatem sed animi repellendus.
-
-## Objetive
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias eum, quae delectus, et sit laborum voluptas neque, nemo itaque quia a. Quas harum earum, quasi minus aspernatur laboriosam aperiam nam.
-
-## Education
-
-### Ipsum Dolor
-
-*Lorem, Lorem — Lorem Ipsum ‘14*
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias quod voluptatum earum asperiores esse labore impedit eos cum obcaecati unde sequi ad beatae magni aut iure, dolorum doloribus nulla, officia!
-
-### Ipsum Dolor
-
-*Lorem, Lorem — Lorem Ipsum ‘14*
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias quod voluptatum earum asperiores esse labore impedit eos cum obcaecati unde sequi ad beatae magni aut iure, dolorum doloribus nulla, officia!
-
-## Skills
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nihil magni incidunt commodi quod libero atque architecto, vero est unde, qui inventore assumenda quaerat perferendis ab reprehenderit quis excepturi dolores, labore.
-
-**Web Development:**   
-
-{% label HTML|16px %}
-{% label Bootstrap|16px %}
-{% label CSS3|16px %}
-{% label JQuery|16px %}
-{% label LESS|16px %}
-{% label Angular|16px %}
-{% label SCSS|16px %}
-
-
-**Back-End:**
-
-{% label Ruby|16px %}
-{% label Java|16px %}
-
-
-
-### Lorem Ipsum
-
-*Lorem ipsum dolor sit amet*
-
-*August 2014 – December 2015*
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut architecto quis sit in qui, omnis repudiandae nam excepturi veritatis enim expedita voluptates repellat. Ipsam quae tempore nihil, quos voluptates commodi.
+**Nationality**: Finnish   
+**Country**: Finland
+**Email**: sini.numminen@aalto.fi
+**Master's Degree (major)**: Helsinki University of Technology in Electrical Engineering
+**Master's Degree (minor)**: Development Studies at the Department of Social Sciences in Helsinki University.
+**Website**: [LinkedIn](http://linkedin.com/in/sininumminen){:target="_blank"}
+**PhD Grant**: [Tiina ja Antti Herlin Foundation](http://www.tahsaatio.fi){:target="_blank"}   
 
 ## Projects
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Temporibus ab odit sed maxime possimus ducimus doloribus minima dolore quaerat, consequatur repellat eius saepe, nisi architecto nemo animi, et quidem. At!
+* [Student Fellow at SAIS-ISEP](http://sais-isep.org/?p=1984){:target="_blank"} - Since 2017,
+I have advised in a project on technical questions of energy systems. The two year project is an ambitious and comprehensive program on technology adoption, power demand, and willingness to pay for mini-grid power in rural India for the Initiative for Sustainable Energy Policy (SAIS) at the 
+Johns Hopkins School of Advanced International Studies (SAIS).
 
-* [Lorem](http://williamcanin.github.io/typing-theme){:target="_blank"} - Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-* [Lorem](http://williamcanin.github.io/typing-theme){:target="_blank"} - Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+* [A Frugal Innovation Approach to Dynamic Electricity Pricing in Rural India: A Field Experiment](http://egap.org/registration/1662){:target="_blank"} - In 2016, I participated in an extensive measurement experiment of PV micro-grid supply and demand in Uttar Pradesh in India in collaboration with Columbia University and Boond Ltd, an Indian social entrepreneur. In the experiment, households in seven habitations are randomly assigned different modes of electricity pricing on a weekly basis.  Results will be published in 2018.
 
+* [New Global of Aalto University](http://newglobal.aalto.fi){:target="_blank"} - I am a member of interdisciplinary innovation and action research network New Global. Through action research, experimentation, co-creation this network aims to foster the necessary capabilities for co-creating frugal and reverse innovations in global systems.
 
 ## Languages
 
-* **English** - Intermediary
-* **Latim** - I do not know Latin, it was only for testing.
-* **Portuguese** - Native
+* **Finnish** - Mother tongue
+* **English** - Fluent
+* **Swedish** - Good
+* **French** - Good

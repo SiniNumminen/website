@@ -36,7 +36,7 @@ website:
   strings:
     sidebar:
       title: |
-        Pictures <br> from India
+        #energyaccess <br> #solarenergy <br> #off-grid <br> #India
     footer:
       message: 
     comments:
