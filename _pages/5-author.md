@@ -38,13 +38,15 @@ My PhD work is supported by a research grant from the Tiina and Antti Herlin Fou
 
 ## Personal Data
 
-**Nationality**: Finnish   
-**Country**: Finland
-**Email**: sini.numminen@aalto.fi
-**Master's Degree (major)**: Helsinki University of Technology in Electrical Engineering
-**Master's Degree (minor)**: Development Studies at the Department of Social Sciences in Helsinki University.
-**Website**: [LinkedIn](http://linkedin.com/in/sininumminen){:target="_blank"}
-**PhD Grant**: [Tiina ja Antti Herlin Foundation](http://www.tahsaatio.fi){:target="_blank"}   
+**Nationality**: Finnish   <br>
+**Country**: Finland<br>
+**Research Group**: [New Energy Technologies Group](http://newenergy.physics.aalto.fi){:target="_blank"} in the School of Science at Aalto University<br>
+**PhD supervisor**: Professor Peter D. Lund<br>
+**PhD Grant**: 2016 - 2019 from [Tiina ja Antti Herlin Foundation](http://www.tahsaatio.fi){:target="_blank"}   
+**Master's Degree (major)**: Electrical Engineering at Helsinki University of Technology<br>
+**Master's Degree (minor)**: Development Studies at the Department of Social Sciences at Helsinki University <br>
+**Email**: sini.numminen@aalto.fi<br>
+**Website**: [LinkedIn](http://linkedin.com/in/sininumminen){:target="_blank"} <br>
 
 ## Projects
 

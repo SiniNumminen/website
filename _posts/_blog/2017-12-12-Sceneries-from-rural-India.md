@@ -44,14 +44,6 @@ The state-owned distribution pole (made of concrete, on the left) is useless, as
 {% imager scenery_microgrid_panel.jpg|left|50% %}
 Solar suits well for rural off-grid areas especially due to abundant amounts of sunshine, compared to large Indian cities where pollution reduces solar output. 
 
-
-<div style="clear:both;">
----
-</div>
-
-{% imager scenery_village_roofs.jpg|left|50% %}
-Micro-grid villages photographed from a rooftop. In the background high voltage substation.
-
 <div style="clear:both;">
 ---
 </div>
@@ -71,7 +63,7 @@ Kerosene lamps are still widely used for lighting in Indian countryside homes. K
 </div>
 
 {% imager DC_battery_motorcycle.jpg|left|50% %}
-This is an old motocycle battery which was configured by locals to power up an extra light bulb in the corridor of their house.
+Locals are innovative in their energy use. This is an old motocycle battery which was configured by locals to power up an extra light bulb in the corridor of their house.
 
 <div style="clear:both;">
 ---

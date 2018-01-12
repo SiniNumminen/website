@@ -13,11 +13,13 @@ excerpted: |
 script: [post.js]
 ---
 
-Local entrepreneur has setup micro-grids in seven villages in Uttar Pradesh, India. Locals are innovative in their energy use.
+{% imager scenery_village_roofs.jpg|left|100% %}
+Local entrepreneur has setup micro-grids in seven villages in Uttar Pradesh, India. Micro-grid villages photographed from a rooftop. In the background high voltage substation.
 
-<div style="clear:both;"></div>
+<div style="clear:both;">
+---
+</div>
 
-<br>
 {% imager DC_bulb.jpg|left|50% %}
 DC_bulb.jpg
 
