@@ -34,8 +34,8 @@ permalink: /Projects/
 
 * <u>PhD Research project: The importance of frugal energy innovations in global energy transitions</u>. Since 2015, I have studied off-grid and island solutions and PV (photovoltaic) technologies and India. Special focus was chosen as the technical reliability and sustainability questions of energy technologies that are manufactured low-cost. Research work is versatile. By far, I have conducted<br>
 
-*   **laboratory tests** for energy system components;
-*   **technical data analysis** and mathematical simulations;
-*   **interviews** for practicioners and energy users and
-*   **extensive literature searches** in the fields of innovation studies, development studies and solar energy engineering.
+  * **laboratory tests** for energy system components;
+  * **technical data analysis** and mathematical simulations;
+  * **interviews** for practicioners and energy users and
+  * **extensive literature searches** in the fields of innovation studies, development studies and solar energy engineering.
 
