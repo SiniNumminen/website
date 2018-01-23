@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Pico-grids"
-date:   2017-12-31 05:16:01 +0300 
+date:   2017-12-01 05:16:01 +0300 
 categories: blog
 tags: ['energy','rural India']
 published: true
@@ -14,7 +14,7 @@ script: [post.js]
 ---
 
 {% imager scenery_village_roofs.jpg|left|100% %}
-Local entrepreneur has setup micro-grids in seven villages in Uttar Pradesh, India. Micro-grid villages photographed from a rooftop. In the background high voltage substation.
+Local entrepreneur Boond has setup [solar micro-grids](https://www.youtube.com/watch?v=gK1JHQZ2GsE) in seven villages in Uttar Pradesh, India. Micro-grid villages photographed from a rooftop. In the background high voltage substation.
 
 <div style="clear:both;">
 ---

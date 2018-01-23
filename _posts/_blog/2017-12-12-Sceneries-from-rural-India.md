@@ -7,15 +7,13 @@ tags: ['energy','rural India']
 published: true
 comments: true 
 excerpted: |
-    Uttar Pradesh is one of the most energy poor states in India, where the majority of people do not have access...
+    Uttar Pradesh is one of the most energy poor states in India, where around 10 million families do not have a access...
 
 # Does not change and does not remove 'script' variables
 script: [post.js]
 ---
 
-Uttar Pradesh is one of the most energy poor states in India, where the majority of people do not have access to electricity. Here are some images of the things I witnessed during my research trips to the rural areas. Energy poverty is overwhelming which leads people to pendle between a variety of energy sources. Living under the grid shows 
-
-These pictures are from the northern Indian state Uttar Pradesh, near the city of Unnao. 
+Uttar Pradesh is one of the most energy poor states in India, where around 10 million families do not have a access to electricity. Here are some images of the things I witnessed during my research trips to the rural areas in 2016.
 
 <div style="clear:both;"></div>
 
