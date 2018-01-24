@@ -28,9 +28,12 @@ permalink: /Author/
 
 ### Sini Numminen, M.Sc.(Tech.)
 
+<div style="clear:both;"></div>
 <br>
-
+{% imager research_team.jpg|right|50%|alt="test" %}
 I am a PhD student at the School of Science at Aalto University, Finland. In 2009 I graduated from Helsinki University of Technology in Electrical Engineering with a minor in Development Studies at the Department of Social Sciences in Helsinki University. After graduation I worked in Germany as a researcher in a European association Distributed Energy Resources Laboratories (DERlab) where I gained a strong insight on the potential of renewable and distributed power units and the smart grids concept. My PhD work is supported by a research grant from the Tiina and Antti Herlin Foundation, Finland.
+<div style="clear:both;"></div>
+
 
 ## Personal Data
 

@@ -25,10 +25,8 @@ script: [postlist.js]
 permalink: /insights
 ---
 <br>
-Access to affordable technical solutions is a key in relieving energy poverty among the poorest customer groups in developing countries. My research topic is off-grid and island solutions and PV (photovoltaic) technologies and India. Special focus is on the technical reliability and sustainability and quality questions of energy technologies and their role in providing energy services in a long-term. The views and opinions on this website are of my own. 
-<br>
 <p>
 {% imager scenery_village_roofs.jpg|left|100% %}
-<i>Figure: From the rooftops in rural Uttar Pradesh (India). A micro-grid system provides 24/7 access to electricity. In the background, a substation of a high voltage electricity transmission system, not extended to this village, as yet.</i>
+Micro-grid system seen at a rooftop in rural Uttar Pradesh (India). It provides 24/7 access to electricity. In the background, a substation of a high voltage electricity transmission system, not extended to this village, as yet.
 </p>
-## Pictures and blog posts
+## My insights

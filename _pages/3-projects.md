@@ -26,13 +26,21 @@ script: [resume.js]
 permalink: /Projects/
 ---
 
-* [Power demand and technology adoption study in rural India 2017 - 2019](http://sais-isep.org/?p=1984){:target="_blank"} - Since 2017, I have advised in a project on technical questions of energy systems as a Student Fellow at SAIS-ISEP. The two year project is an ambitious and comprehensive program on technology adoption, power demand, and willingness to pay for mini-grid power in rural India for the Initiative for Sustainable Energy Policy (ISEP) at the Johns Hopkins School of Advanced International Studies (SAIS).
+## Power demand and technology adoption study in rural India 2017 - 2019
 
-* [A Frugal Innovation Approach to Dynamic Electricity Pricing in Rural India: A Field Experiment 2016 - 2017](http://egap.org/registration/1662){:target="_blank"} - In 2016, I participated in an extensive measurement experiment of PV micro-grid supply and demand in Uttar Pradesh in India in collaboration with Columbia University and Boond Ltd, an Indian social entrepreneur. In the experiment, households in seven habitations are randomly assigned different modes of electricity pricing on a weekly basis.  Results will be published in 2018.
+Since 2017, I have advised in a [project](http://sais-isep.org/?p=1984){:target="_blank"} on technical questions of energy systems as a Student Fellow at SAIS-ISEP. The two year project is an ambitious and comprehensive program on technology adoption, power demand, and willingness to pay for mini-grid power in rural India for the Initiative for Sustainable Energy Policy (ISEP) at the Johns Hopkins School of Advanced International Studies (SAIS).
 
-* [New Global of Aalto University](http://newglobal.aalto.fi){:target="_blank"} - I am a member of interdisciplinary innovation and action research network New Global. Through action research, experimentation, co-creation this network aims to foster the necessary capabilities for co-creating frugal and reverse innovations in global systems.
+## A Frugal Innovation Approach to Dynamic Electricity Pricing in Rural India: A Field Experiment 2016 - 2017
 
-* <u>PhD Research project: The importance of frugal energy innovations in global energy transitions</u>. Since 2015, I have studied off-grid and island solutions and PV (photovoltaic) technologies and India. Special focus was chosen as the technical reliability and sustainability questions of energy technologies that are manufactured low-cost. Research work is versatile. By far, I have conducted<br>
+In 2016, I participated in an [extensive measurement experiment](http://egap.org/registration/1662){:target="_blank"} of PV micro-grid supply and demand in Uttar Pradesh in India in collaboration with Columbia University and Boond Ltd, an Indian energy access company and a social enterprise. In the experiment, households in seven habitations are randomly assigned different modes of electricity pricing on a weekly basis. The results will be published in 2018.
+
+## New Global of Aalto University
+
+I am a member of an [interdisciplinary innovation and action research network New Global](http://newglobal.aalto.fi){:target="_blank"}. Through action research, experimentation, co-creation this network aims to foster the necessary capabilities for co-creating frugal and reverse innovations in global systems.
+
+## PhD Research project: The importance of frugal energy innovations in global energy transitions.
+
+Since 2015, I have studied off-grid and island solutions and PV (photovoltaic) technologies and India. Special focus was chosen as the technical reliability and sustainability questions of energy technologies that are manufactured low-cost. Research work is versatile. By far, I have conducted<br>
 
   * **laboratory tests** for energy system components;
   * **technical data analysis** and mathematical simulations;
