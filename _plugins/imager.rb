@@ -54,12 +54,12 @@ module Jekyll
         # Creating the structure for image layout. Using Bootstrap.
         if align == "center"
           %(<div class="row imager" style="margin: 40px 0px;">
-            <img class="img-responsive center-block" src="#{@url_website}/#{@get_dir_img_posts}/#{img}" title="#{img}" alt="#{img}">
+            <img class="img-responsive center-block" src="#{@url_website}/#{@get_dir_img_posts}/#{img}">
           </div>)
         elsif align == "left"
-          %(<img style="float: #{align}; width: #{width}; margin-right: 2%" class="img-responsive" src="#{@url_website}/#{@get_dir_img_posts}/#{img}" title="#{img}" alt="#{img}">)
+          %(<img style="float: #{align}; width: #{width}; margin-right: 2%" class="img-responsive" src="#{@url_website}/#{@get_dir_img_posts}/#{img}">)
 	else
-          %(<img style="float: #{align}; width: #{width}; margin-left: 2%" class="img-responsive" src="#{@url_website}/#{@get_dir_img_posts}/#{img}" title="#{img}" alt="#{img}">)
+          %(<img style="float: #{align}; width: #{width}; margin-left: 2%" class="img-responsive" src="#{@url_website}/#{@get_dir_img_posts}/#{img}">)
         end
       end
       def split_params(params)

@@ -16,7 +16,9 @@ script: [post.js]
 <br>
 This text was publisehd on the SAIS-ISEP website on November the 5th, 2017, and re-posted here with permission.
 <br>
-{% imager DC_solar_panel_mounting.jpg|center|75% %}
+
+{% imager DC_solar_panel_mounting.jpg|left %}
+
 <div style="clear:both;"></div>
 
 <i>Figure: The dual-panel on the left which belongs to the village micro-grid is professionally installed by a micro-grid solar entrepreneur to the optimal 23 degrees mounting angle and direct sunlight. On the right are two single panels of two private solar systems or solar gadgets.</i>
