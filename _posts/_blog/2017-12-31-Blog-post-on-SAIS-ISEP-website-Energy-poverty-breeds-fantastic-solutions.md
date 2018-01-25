@@ -3,11 +3,11 @@ layout: post
 title:  "Blog post: Energy poverty breeds fantastic solutions and surprising behaviours"
 date:   2017-12-31 05:16:01 +0300 
 categories: blog
-tags: ['energy','rural India', 'off-grid']
+tags: ['energy poverty','rural India', 'off-grid', 'frugal innovation']
 published: true
 comments: true 
 excerpted: |
-    This text was publisehd on the SAIS-ISEP website on November the 5th, 2017, and...
+    Access to truly green energy technologies with sufficient quality is a critical issue for the poorest. This text was publisehd on the SAIS-ISEP website on November the 5th, 2017.
 
 # Does not change and does not remove 'script' variables
 script: [post.js]
