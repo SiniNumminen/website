@@ -23,7 +23,7 @@ published: true
 # Does not change and does not remove 'script' variables
 script: [resume.js]
 
-permalink: /INDUSTRY SURVEY 2018/
+permalink: /industry_survey_2018/
 ---
 
 ## Indian solar PV off-grid sector for a sustainable energy transition
@@ -33,7 +33,7 @@ There is a lively industry in India providing electricity access for the hundred
 
 ## Meet me or let's setup a call
 
-As this is a very important and topical matter, I am looking for enthusiastic people to interview. If you find yourself being an expert in this field, please don't hesitate to contact me for an interview. 
+As this is a very important and topical matter, I am looking for enthusiastic people to interview. If you find yourself being an expert in this field, please don't hesitate to contact me for an interview.
 
 {% imager IEAS_header.jpg|left|75%|alt="#{IEAS}" %}
 <div style="clear:both;"></div>
@@ -64,4 +64,4 @@ The interviews are semi-structured and will be conducted either per Skype connec
 <br>
 
 ## Disclaimer
-This is an academically independent project. The study is not engaged with any single company or interest group. The supervisor of the project is [Professor Peter Lund from Aalto University](https://people.aalto.fi/peter_lund){:target="_blank"}. The funding for the study is coming from a personal research grant from Tiina and Antti Herlin Foundation in Finland for a PhD grand to myself. 
+This is an academically independent project. The study is not engaged with any single company or interest group. The supervisor of the project is [Professor Peter Lund from Aalto University](https://people.aalto.fi/peter_lund){:target="_blank"}. The funding for the study is coming from a personal research grant from Tiina and Antti Herlin Foundation in Finland for a PhD grand to myself.

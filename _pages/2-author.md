@@ -64,3 +64,4 @@ I am a PhD student at the School of Science at Aalto University, Finland. In 200
 * **English** - Fluent
 * **Swedish** - Good
 * **French** - Good
+* **German** - Basic
