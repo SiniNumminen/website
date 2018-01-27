@@ -14,8 +14,10 @@ script: [post.js]
 ---
 <h2>Access to truly green energy technologies with sufficient quality is a critical issue for the poorest.</h2>
 <br>
-This text was published on the [SAIS-ISEP website](http://sais-isep.org/?p=2020){:target="_blank"} on November the 5th, 2017.
+This text was published on the [SAIS-ISEP blog](http://sais-isep.org/?p=2020){:target="_blank"} 5.11.2017.
+{% imager SAIS_ISEP_logo.png|left|60% %}
 <br>
+<div style="clear:both;"></div>
 
 {% imager DC_solar_panel_mounting.jpg|left %}
 
