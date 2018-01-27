@@ -40,11 +40,11 @@ I am a PhD student at the School of Science at Aalto University, Finland. In 200
 **Nationality**: Finnish   <br>
 **Country**: Finland<br>
 **Research Group**: [New Energy Technologies Group](http://newenergy.physics.aalto.fi){:target="_blank"} in the School of Science at Aalto University<br>
-**PhD supervisor**: Professor Peter D. Lund<br>
+**PhD supervisor**: [Professor Peter D. Lund](https://people.aalto.fi/peter_lund){:target="_blank"}<br>
 **PhD Grant**: 2016 - 2019 from [Tiina ja Antti Herlin Foundation](http://www.tahsaatio.fi){:target="_blank"}   
 **Master's Degree (major)**: Electrical Engineering at Helsinki University of Technology<br>
 **Master's Degree (minor)**: Development Studies at the Department of Social Sciences at Helsinki University <br>
-**Email**: sini.numminen@aalto.fi<br>
+**Email**: sini.numminen[a ]aalto.fi<br>
 **Website**: [LinkedIn](http://linkedin.com/in/sininumminen){:target="_blank"} <br>
 
 ## Publications

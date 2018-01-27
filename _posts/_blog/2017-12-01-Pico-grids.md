@@ -1,20 +1,20 @@
 ---
 layout: post
 title:  "Pico-grids"
-date:   2017-12-01 05:16:01 +0300 
+date:   2017-12-01 05:16:01 +0300
 categories: blog
-tags: ['pre-paid','solarenergy','off-grid','rural India']
+tags: ['pre-paid','solarenergy','pico-grid','micro-grid','off-grid','ruralindia']
 published: true
-comments: true 
+comments: true
 excerpted: |
-   Local entrepreneur Boond has setup solar micro-grids in seven villages in Uttar Pradesh, India. A pre-paid meter is installed in household that enables monitoring of instantaneous consumption. 
+   Local entrepreneur Boond has setup solar micro-grids in seven villages in Uttar Pradesh, India. A pre-paid meter is installed in household that enables monitoring of instantaneous consumption.
 
 # Does not change and does not remove 'script' variables
 script: [post.js]
 ---
 
 {% imager scenery_village_roofs.jpg|left|100% %}
-Local entrepreneur Boond has setup [solar micro-grids](https://www.youtube.com/watch?v=gK1JHQZ2GsE){:target="_blank"} in seven villages in Uttar Pradesh, India. Micro-grid-connected village photographed from a rooftop. Pictures are taking during a visit in 2016.
+Local entrepreneur Boond Ltd. has setup several solar micro-grids villages in Uttar Pradesh, India. Pico-grids are small micro-grids that supply the connected households with limited capacity. In these villages the maximum instantaneous power is 30 W. Pictures are taken by me during a visit in 2016.
 
 <div style="clear:both;">
 ---
@@ -56,9 +56,8 @@ Private sound system of a micro-grid customer.
 </div>
 
 {% imager DC_energy_meter_bottom.JPG|left|50% %}
-This smart meter has just one design fault: Reptiles can enter the casing from the bottom of the meter. An unfortunate lizard made a home in one of the meters and it  exploded. 
+This smart meter has just one design fault: Reptiles can enter the casing from the bottom of the meter. An unfortunate lizard made a home in one of the meters and it  exploded.
 
 <div style="clear:both;"></div>
 
 {% endpost #9D9D9D %}
-

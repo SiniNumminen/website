@@ -19,5 +19,4 @@ script: [search.js]
 permalink: /blog/search/
 ---
 
-Type something in the field to find a page under these sites.
-
+Search by title or tags in "Insights".
