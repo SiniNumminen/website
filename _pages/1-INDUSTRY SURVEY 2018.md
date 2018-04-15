@@ -33,7 +33,7 @@ There is a lively industry in India providing electricity access for millions of
 
 ## Meet me or let's setup a call
 
-As this is a very important and topical matter, I am looking for enthusiastic people to interview. If you are a practitioner, engineer, entrepreneur or other expert in this field, please don't hesitate to contact me for an interview. I can arrange a Skype meeting or telephone interview, or discuss via email, or you can meet me at the [India Energy Access Summit 2018](https://www.theclimategroup.org/event/india-energy-access-summit){:target="_blank"} in Monday 12th - Tuesday 13th of February in New Delhi.
+As this is a very important and topical matter, I am looking for enthusiastic people to interview. If you are a practitioner, engineer, entrepreneur or other expert in this field, please don't hesitate to contact me for an interview. I can arrange a Skype meeting or a telephone interview, or discuss via email, or you can meet me at the [India Energy Access Summit 2018](https://www.theclimategroup.org/event/india-energy-access-summit){:target="_blank"} in Monday 12th - Tuesday 13th of February in New Delhi.
 
 {% imager IEAS_header.jpg|left|85%|alt="#{IEAS}" %}
 <div style="clear:both;"></div>
