@@ -26,13 +26,13 @@ script: [resume.js]
 permalink: /Projects/
 ---
 
-## Power demand and technology adoption study in rural India 2017 - 2019
-
-Since 2017, I have advised in a [project](http://sais-isep.org/?p=1984){:target="_blank"} on technical questions of energy systems as a Student Fellow at SAIS-ISEP. The two year project is an ambitious and comprehensive program on technology adoption, power demand, and willingness to pay for mini-grid power in rural India for the Initiative for Sustainable Energy Policy (ISEP) at the Johns Hopkins School of Advanced International Studies (SAIS).
-
 ## A Frugal Innovation Approach to Dynamic Electricity Pricing in Rural India: A Field Experiment 2016 - 2017
 
 In 2016, I participated in an [extensive measurement experiment](http://egap.org/registration/1662){:target="_blank"} of PV micro-grid supply and demand in Uttar Pradesh in India in collaboration with Columbia University and [Boond Ltd.](https://www.youtube.com/watch?v=gK1JHQZ2GsE){:target="_blank"}, an Indian energy access company and a social enterprise. In the experiment, [solar pico-grids](http://sininumminen.fi/blog/Pico-grids/) were installed in seven habitations. In these habitations, the grid-connected households were randomly assigned different modes of electricity pricing on a weekly basis. The results will be published in 2018.
+
+## Power demand and technology adoption study in rural India 2017 - 2019
+
+Since 2017, I have advised in a [project](http://sais-isep.org/?p=1984){:target="_blank"} on technical questions of energy systems as a Student Fellow at SAIS-ISEP. The two year project is an ambitious and comprehensive program on technology adoption, power demand, and willingness to pay for mini-grid power in rural India for the Initiative for Sustainable Energy Policy (ISEP) at the Johns Hopkins School of Advanced International Studies (SAIS).
 
 ## New Global of Aalto University
 
