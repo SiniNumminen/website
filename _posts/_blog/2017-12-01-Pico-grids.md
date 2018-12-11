@@ -58,6 +58,35 @@ Private sound system of a micro-grid customer.
 {% imager DC_energy_meter_bottom.JPG|left|50% %}
 This smart meter has just one design fault: Reptiles can enter the casing from the bottom of the meter. An unfortunate lizard made a home in one of the meters and it  exploded.
 
+<div style="clear:both;">
+---
+</div>
+Technical details
+
+PV panels: Two Alpex Solar “Alpex 12100 100 W” panels. Application class: A. Open-circuit voltage 21 V, short-circuit current 6.15 A.
+
+Battery bank: Two tubular type lead-acid batteries Artheon Black EON 60 T "Premium Quality Solar Battery". 12 V, 60 Ah each. Cut-off voltage 21.6 V.
+
+Central charging station: Manufacturer EmSys Electronics. Output: 24 V DC. Short circuit protection, over load protection, low-voltage cut-off and high voltage cut-off. Data logging.
+Distribution: 24 V DC, 24 hours per day.
+
+Energy meter: Manufacturer, EmSys Electronics. Input 24 V DC. Output 12 V DC. Maximum instantaneous output: 30 W.
+
+Loads per household: Three LED light bulbs (à 3 W), a fan (à 18 W), and a socket for connecting small electronic appliances.
+
+Communication: Serial communication and a separate data cable, baud rate 9600 bps (RS-485)
+System provider: Boond Engineering & Development Pvt Ltd (www.boond.net)
+
+
+More information:
+
+Numminen, S., Yoon, S., Urpelainen, J., Lund, P.D. (2018). An Evaluation of Dynamic Electricity Pricbing for Solar Micro-Grids in Rural India. Energy Strategy Reviews vol 21, pages 130-136.
+
+Numminen, S., Lund, P., D., Yoon, S., Urpelainen, J. (2018). Power availability and reliability of solar pico-grids in rural areas: a case study from northern India. Sustainable Energy Technologies and Assessments, vol 29, pages 147-154.
+
+Numminen, S., Lund, P.D., 2016. Frugal energy innovations for developing countries – a framework. Global Challenges.
+
+
 <div style="clear:both;"></div>
 
 {% endpost #9D9D9D %}
