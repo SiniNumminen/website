@@ -27,6 +27,6 @@ permalink: /blog
 <br>
 <p>
 {% imager scenery_village_roofs.jpg|left|90% %}
-Micro-grid system seen at a rooftop in rural Uttar Pradesh (India). It provides 24/7 access to electricity. In the background, a substation of a high voltage electricity transmission system, not extended to this village, as yet.
+Micro-grid system seen at a rooftop in rural Uttar Pradesh (India). It provides 24/7 access to electricity. In the background, a substation of a high voltage electricity transmission system, not extended to this village, as yet (December 2016).
 </p>
 ## My insights
