@@ -13,8 +13,8 @@ website:
     subtitle: |
       <p> Meanwhile, you can follow me on Twitter. </p>
 
-  title: Energy in off-grid India
-  description: Research 
+  title: Sini Numminen PhD Project
+  description: Main
   launch: 2017
   avatar: sini.jpg
   metatag:
@@ -40,7 +40,7 @@ website:
         research for <br>
         energy access
     footer:
-      message: 
+      message:
     comments:
       title: Leave a comment on this post
       disable: The comment for this post is disabled.

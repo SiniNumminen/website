@@ -48,22 +48,6 @@ plugin:
     locale: en_US
     reload: false
 
-# Plugin music.
-spotify:
-  enable: false
-  open: false
-  theme: "light" # dark | light
-  sass:
-    jekyll: true
-    dir: "_sass"
-  title:
-    enable: false
-    text: "Jekyll Spotify Plugin"
-  content:
-    enable: false
-    text: |
-      Jekyll plugin to generate html snippets for embedding Spotify Musics.
-      To listen to the full song, open your Spotify and start these musics.
 
 
 

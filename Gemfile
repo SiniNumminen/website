@@ -11,6 +11,7 @@ gem "jekyll"
 gem "pygments.rb"
 gem "rake"
 group :jekyll_plugins do
+   gem 'jekyll-twitter-plugin'
    gem "jekyll-coffeescript"
    gem "jekyll-jsminify"
    gem "jekyll-paginate"
@@ -19,5 +20,4 @@ group :jekyll_plugins do
    gem "jekyll-tagging"
    gem "jemoji"
    gem "jekyll-email-protect"
-   gem "jekyll-spotify-plugin"
 end

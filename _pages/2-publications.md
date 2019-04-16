@@ -28,7 +28,7 @@ permalink: /Publications/
 
 ## Dissertation
 
-* <u> Reliability and sustainability analyses of frugal solar photovoltaic micro-grid systems in emerging markets </u> (under pre-examination since 25.01.2019)- Numminen, S. (2019). Aalto University, School of Science, Dissertations.
+* Upcoming: <u> Reliability and sustainability analyses of frugal solar photovoltaic micro-grid systems in emerging markets </u> (non-published results, dissertation under pre-examination since 25.01.2019)- Numminen, S. (2019). Aalto University, School of Science, Dissertations.
 
 ## Papers
 

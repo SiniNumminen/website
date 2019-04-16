@@ -10,7 +10,7 @@ sitemap:
 ga_event: true
 
 # Icon feature uses Font Awesome
-icon: fa-file-text-o
+icon: fa-bolt 
 
 # Enable / Disable this page in the main menu.
 menu: true
