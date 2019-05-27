@@ -12,7 +12,7 @@ excerpted: |
 # Does not change and does not remove 'script' variables
 script: [post.js]
 ---
-Suomeksi / In Finnish language, see below.
+Suomeksi alla / In Finnish language, see below.
 <div style="clear:both;">
 </div>
 <div style="clear:both;">
