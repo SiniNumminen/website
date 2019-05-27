@@ -13,7 +13,7 @@ ga_event: true
 icon: fa-file-text-o
 
 # Enable / Disable this page in the main menu.
-menu: true
+menu: false
 
 # Enable / Disable button for print resume.
 btnprint: true

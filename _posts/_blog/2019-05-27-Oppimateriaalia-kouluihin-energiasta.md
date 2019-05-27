@@ -1,36 +1,32 @@
 ---
 layout: post
-title:  "UUTTA: Luentomateriaali energian perustarpeista, ja energian säästämisestä Suomessa ja Intiassa"
-date:   2019-04-27 05:16:01 +0400
+title:  "UUTTA: Opetusmateriaali energian perustarpeista, ja energian säästämisestä Suomessa ja Intiassa"
+date:   2019-05-27 05:16:01 +0400
 categories: blog
 tags: ['energian säästö', 'energianiukkuus', 'energiaköyhyys', 'Intia', 'Suomi', 'luentomateriaali', 'peruskoulu', 'lukio', 'globaalikasvatus']
-published: false
+published: true
 comments: true
 excerpted: |
-    Oppimateriaalia kouluihin energiansäästöstä Intia-esimerkkien avulla! Materiaali perustuu suomalaisissa peruskouluissa ja lukioissa pitämiin luentoihin. Tunneilla olemme yhdessä lasten ja nuorten kanssa miettineet, mitkä ovat tärkeitä peruspalveluita, joihin energiaa tarvitaan. Miten tehdä läksyt jos kotona ei ole sähköjä?
+    Oppimateriaalia kouluihin energiansäästöstä Intia-esimerkkien avulla! Materiaali perustuu suomalaisissa peruskouluissa ja lukioissa pitämiin luentoihin. Tunneilla olemme miettineet, mihin energiaa oikeasti tarvitaan. Miten tehdä läksyt jos kotona ei ole sähköjä?
 
 # Does not change and does not remove 'script' variables
 script: [post.js]
 ---
-<div style="clear:both;">
-</div>
+{% imager front3.jpg|left|100% %}
 
-{% imager poverty.jpg|left|97% %}
-<i>Kuva: The World bank (2015) [1]. Köyhyydessä elävien ihmisten määrä eri maailmanosissa.</i>
+Olen väitöstutkimukseni aikana vieraillut suomalaisissa peruskouluissa ja lukioissa kertomassa tutkimuksestani kehittyvien maiden energiakysymysten parissa. Olen oppitunnin mittaisen vierailuni aikana halunnut pohtia nuorten kanssa, miten köyhissä ja sähköttömissä olosuhteissa voidaan laittaa ruokaa, tehdä läksyt, tai kylmäsäilyttää elintarvikkeita. Näitä energian peruspalveluita kaikki maailman ihmiset tarvitsevat. Kerron esimerkkejä Intian maaseudulta. Miten tehdä läksyt tai laittaa ruokaa, jos kotona ei ole sähköjä? Missä ja miten voi hyödyntää aurinkoenergiaa? Luennon tavoitteena on ollut pohtia energian merkitystä ja energian määrän kokoluokkia. Ylemmillä luokilla olemme tehneet laskuharjoituksia.
 
+Pidän aihepiirejä niin tärkeinä, että [haluan jakaa luentokalvot avoimesti kaikkien opettajien kanssa opetuksessa vapaasti käytettäväksi (linkki lataussivulle)](/opettajalle_energiapalveluita_Suomessa_ja_Intiassa/). Taustamateriaalin tarkoituksena on toimia ennen kaikkea inspiraation lähteenä – sisältöä on enemmän kuin yhden oppitunnin ajaksi. Mukana on myös muutamia ideoita valmisteleviksi tehtäviksi ja viitteitä muihin materiaaleihin. Aihepiiriltään luento osuu yhteiskuntatieteiden (kehitysmaatutkimus ja globaalikasvatus) ja fysiikan oppiaineiden risteyskohtaan ja arvioisin, että kalvot ovat muokattavissa kaiken ikäisille peruskoulun ja lukioiden oppilaille sopiviksi.
 
-<div style="clear:both;">
-Julkaisen huhti-toukokuussa opettajien toivomuksesta luentokalvot, joita olen näyttänyt esiintyessäni suomalaisissa peruskouluissa ja lukioissa. Tunneilla olemme lasten ja nuorten kanssa miettineet, mitkä ovat tärkeitä peruspalveluita, joihin energiaa tarvitaan, ja mistä energiaa paikallisesti voisi saada. Tutustumme intialaisen perheen energiankäytön arkeen. Miten tehdä läksyt tai laittaa ruokaa, jos kotona ei ole sähköjä? Missä ja miten voi hyödyntää aurinkoenergiaa?
+[MATERIAALIEN LATAUSSIVULLE](/opettajalle_energiapalveluita_Suomessa_ja_Intiassa/)
 
-Luennon tavoitteena on ollut pohtia energian merkitystä ja energian määrän kokoluokkia. Ylemmillä luokilla olemme tehneet laskuharjoituksia. Aihepiiriltään luento osuu yhteiskuntatieteiden, maantieteen ja fysiikan oppiaineiden risteyskohtaan.
+<div style="clear:both;"></div>
 
-Olen tehnyt mukaan myös taustamateriaalia. Materiaali on toivottavasti inspiroivaa, ja voi auttaa eri oppiaineen opettajia kertomaan kouluissa energian käytöstä, tuotannosta ja säästöstä.
-
-<i>[1] World Bank (2015). The poverty headcount ratio at $1.25 a day, URL: http://data.worldbank.org/sites/default/files/wdi15-sec1-map-wld41450.pdf (viitattu 31.12.2015)</i>
-</div>
+{% imager front5.jpg|left|105% %}
+<div style="clear:both;"></div>
 
 <br>
 <div style="clear:both;"></div>
-{% imager TAHS_logo.png|left|70% %}
+
 <br>
 {% endpost #9D9D9D %}

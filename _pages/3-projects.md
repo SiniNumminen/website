@@ -31,7 +31,7 @@ permalink: /Projects/
 Since 2015, I have studied off-grid and island solutions and PV (photovoltaic) technologies and India. Special focus was chosen as the technical reliability and sustainability questions of solar photovoltaic micro-grids. Research work consisted of<br>
 
   * **technical data analysis** for measured data;
-  * **interviews** with off-grid energy practitioners and solar energy users:
+  * **interviews** with off-grid energy practitioners ([industry survey conducted in 2018](/industry_survey_2018/)), micro-grid field staff and solar energy users;
   * **laboratory tests** for energy system components and
   * **literature searches** in sustainability analysis, reliability engineering, development studies and solar energy engineering.
 
@@ -44,7 +44,7 @@ Since 2015, I have studied off-grid and island solutions and PV (photovoltaic) t
 <div style="clear:both;">
 ---
 </div>
-The PhD project has been funded by the [Tiina and Antti Herlin Foundation](http://tahsaatio.fi){:target="_ blank"} between 2016 and 2019.
+The PhD project has been funded by the [Tiina and Antti Herlin Foundation](http://tahsaatio.fi){:target="_ blank"} between 2016 and 2019, and Finnish Technology and Innovation Agency TEKES through [New Global project](http://newglobal.aalto.fi){:target="_ blank"} of Aalto University in 2015 and 2016.
 <div style="clear:both;">
 ---
 </div>
@@ -60,6 +60,6 @@ blank"} of PV micro-grid supply and demand in Uttar Pradesh in India in collabor
 
 ## New Global of Aalto University 2015 – 2016
 
-  I am a member of an [interdisciplinary innovation and action research network New Global](http://newglobal.aalto.fi){:target="_ blank"}. Through action research, experimentation, co-creation this network aims to foster the necessary capabilities for co-creating frugal and reverse innovations in global systems. New Global project funded my PhD research project during 2015 and 2016.
+  I am a member of an [interdisciplinary innovation and action research network New Global](http://newglobal.aalto.fi){:target="_ blank"}. Through action research, experimentation, co-creation this network aims to foster the necessary capabilities for co-creating frugal and reverse innovations in global systems.
 
   {% imager New_Global_logo.png|left|60% %}
