@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "My presentation at the Sustainability Science day"
+title:  "My presentation at the Sustainability Science day: <i>Blackout under a bright sunshine. Quality of solar electricity in rural areas in emerging markets</i>"
 date:   2019-05-09 12:00:00 -0300
 categories: blog
 tags: ['India', 'reliability','solar micro-grids']

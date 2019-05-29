@@ -18,8 +18,7 @@ Olen väitöstutkimukseni aikana vieraillut suomalaisissa peruskouluissa ja luki
 
 Pidän aihepiirejä niin tärkeinä, että [haluan jakaa luentokalvot avoimesti kaikkien opettajien kanssa opetuksessa vapaasti käytettäväksi (linkki lataussivulle)](/opettajalle_energiapalveluita_Suomessa_ja_Intiassa/). Taustamateriaalin tarkoituksena on toimia ennen kaikkea inspiraation lähteenä – sisältöä on enemmän kuin yhden oppitunnin ajaksi. Mukana on myös muutamia ideoita valmisteleviksi tehtäviksi ja viitteitä muihin materiaaleihin. Aihepiiriltään luento osuu yhteiskuntatieteiden (kehitysmaatutkimus ja globaalikasvatus) ja fysiikan oppiaineiden risteyskohtaan ja arvioisin, että kalvot ovat muokattavissa kaiken ikäisille peruskoulun ja lukioiden oppilaille sopiviksi.
 
-[MATERIAALIEN LATAUSSIVULLE](/opettajalle_energiapalveluita_Suomessa_ja_Intiassa/)
-
+[MATERIAALIEN LATAUSSIVULLE](/opettajalle_energian_perustarpeita_Suomessa_ja_Intiassa/)
 <div style="clear:both;"></div>
 
 {% imager front5.jpg|left|105% %}
