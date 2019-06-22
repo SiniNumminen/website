@@ -10,7 +10,7 @@ sitemap:
 ga_event: true
 
 # Icon feature uses Font Awesome
-icon: fa-bolt 
+icon: fa-bolt
 
 # Enable / Disable this page in the main menu.
 menu: true
@@ -26,26 +26,29 @@ script: [resume.js]
 permalink: /Author/
 ---
 
-### Sini Numminen, M.Sc.(Tech.)
+### Sini Numminen, D.Sc. (Tech.)
 
 <div style="clear:both;"></div>
 <br>
 {% imager research_team.jpg|right|50%|alt="test" %}
-I am a PhD student at the School of Science at Aalto University, Finland. In 2009 I graduated from Helsinki University of Technology in Electrical Engineering with a minor in Development Studies at the Department of Social Sciences in Helsinki University. After graduation I worked in Germany as a researcher in a European association Distributed Energy Resources Laboratories (DERlab) where I gained a strong insight on the potential of renewable and distributed power units and the smart grids concept. My PhD work is supported by a research grant from the Tiina and Antti Herlin Foundation, Finland.
+On 20 June 2019, Aalto University admitted me the degree of Doctor of Science in Technology. These webpages describe the research/study project. Before this, I worked in Germany as a researcher in a European association Distributed Energy Resources Laboratories (DERlab) where I gained a strong insight on the potential of renewable and distributed power units and the smart grids concept in Europe. I earned my master's degree in 2009 at Helsinki University of Technology in Electrical Engineering with a minor in Development Studies at the Department of Social Sciences in Helsinki University.
 <div style="clear:both;"></div>
+
 
 
 ## Personal Data
 
 **Nationality**: Finnish   <br>
 **Country**: Finland<br>
-**Research Group**: [New Energy Technologies Group](http://newenergy.physics.aalto.fi){:target="_blank"} in the School of Science at Aalto University<br>
-**PhD supervisor**: [Professor Peter D. Lund](https://people.aalto.fi/peter_lund){:target="_blank"}<br>
-**PhD Grant**: 2016 - 2019 from [Tiina ja Antti Herlin Foundation](http://www.tahsaatio.fi){:target="_blank"}   
+**Doctor's Degree**: Engineering Physics (Energy Sciences) at Aalto University, School of Science<br>
+* **Research Group**: [New Energy Technologies Group](http://newenergy.physics.aalto.fi){:target="_ blank"} in the School of Science at Aalto University<br>
+* **Supervisor**: [Professor Peter D. Lund](https://people.aalto.fi/peter_lund){:target="_ blank"}<br>
+* **Grant**: 2016 - 2019 from [Tiina ja Antti Herlin Foundation](http://www.tahsaatio.fi){:target="_ blank"}   
+
 **Master's Degree (major)**: Electrical Engineering at Helsinki University of Technology<br>
 **Master's Degree (minor)**: Development Studies at the Department of Social Sciences at Helsinki University <br>
-**Email**: sini.numminen[a ]aalto.fi<br>
-**Website**: [LinkedIn](http://linkedin.com/in/sininumminen){:target="_blank"} <br>
+**Email**: sini.numminen iki.fi<br>
+**Website**: [LinkedIn](http://linkedin.com/in/sininumminen){:target="_ blank"} <br>
 
 ## Languages
 

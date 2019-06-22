@@ -13,7 +13,7 @@ website:
     subtitle: |
       <p> Meanwhile, you can follow me on Twitter. </p>
 
-  title: Sini Numminen PhD Project
+  title: Sini Numminen
   description: Main
   launch: 2017
   avatar: sini.jpg
@@ -35,10 +35,10 @@ website:
     image: sini.jpg
   strings:
     sidebar:
-      title: |
-        My PhD <br>
-        research for <br>
-        energy access
+      title: D.Sc. (Tech.)
+      #        My doctoral <br>
+      #  research for <br>
+      #  energy access
     footer:
       message:
     comments:
