@@ -7,8 +7,6 @@ tags: ['off-grid', 'India', 'Mali','solar PV', 'frugal innovation']
 published: true
 comments: true
 excerpted: How to promote sustainable, democratic and affordable energy solutions in the Global South? This panel discussion hosted by the Siemenpuu Foundation looks at the challenges and opportunities of solar power and off-grid power systems in providing electricity to rural areas and which types of electricity projects can best serve rural communities.
-
-
 # Does not change and does not remove 'script' variables
 script: [post.js]
 ---

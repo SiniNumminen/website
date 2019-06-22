@@ -26,7 +26,7 @@ script: [resume.js]
 permalink: /Projects/
 ---
 
-## PhD research project: The importance of frugal energy innovations in global energy transitions 2015 – 2019
+## Doctoral degree research project: The importance of frugal energy innovations in global energy transitions 2015 – 2019
 
 Since 2015, I have studied off-grid and island solutions and PV (photovoltaic) technologies and India. Special focus was chosen as the technical reliability and sustainability questions of solar photovoltaic micro-grids. Research work consisted of<br>
 
@@ -44,7 +44,7 @@ Since 2015, I have studied off-grid and island solutions and PV (photovoltaic) t
 <div style="clear:both;">
 ---
 </div>
-The PhD project has been funded by the [Tiina and Antti Herlin Foundation](http://tahsaatio.fi){:target="_ blank"} between 2016 and 2019, and Finnish Technology and Innovation Agency TEKES through [New Global project](http://newglobal.aalto.fi){:target="_ blank"} of Aalto University in 2015 and 2016.
+The project has been funded by the [Tiina and Antti Herlin Foundation](http://tahsaatio.fi){:target="_ blank"} between 2016 and 2019, and Finnish Technology and Innovation Agency TEKES through [New Global project](http://newglobal.aalto.fi){:target="_ blank"} of Aalto University in 2015 and 2016.
 <div style="clear:both;">
 ---
 </div>
