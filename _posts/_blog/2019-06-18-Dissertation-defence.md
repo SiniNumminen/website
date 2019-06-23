@@ -52,8 +52,4 @@ script: [post.js]
 <div style="clear:both;"></div>
 <br>
 
-{% imager defence9.jpg|left|100% %}
-<i>So happy!</i>
-
-
 {% endpost #9D9D9D %}
