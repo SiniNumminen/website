@@ -13,7 +13,7 @@
 #   Home page: https://williamcanin.com
 
 # License:
-# The MIT License (MIT)
+# The MIT License (MIT) 
 
 # Copyright (c) 2017 William C. Canin <william.costa.canin@gmail.com>
 
@@ -105,4 +105,3 @@ case $1 in
      msg_warning "Usage: $0 { install | build | serve | post:blog | post:hello | clean_production }"
   ;;
 esac
-

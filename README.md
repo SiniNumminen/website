@@ -59,7 +59,7 @@ The contact page uses the Formspree feature, you will need to have an account in
 ## Requeriments
 
 | Requerid        | How to check        | How to install  |
-| --------------- | ------------------- | -------------- | 
+| --------------- | ------------------- | -------------- |
 | Git             | `git --version`     | [Git](http://git-scm.com/) |
 | Ruby            | `ruby -v`           | [Ruby](https://www.ruby-lang.org) |
 | Gem             | `gem -v`            | **Ruby** contains **Gem** |
@@ -107,7 +107,7 @@ You can change the colors of **Typing Jekyll Template** by editing the `_sass/ba
 
 If you want to change the font, change the values of the variables in the `_sass/base/_fonts.scss` file.
 
-I was forgetting ... there are some extra themes in the `_sass/base/_variables.scss` file disabled. You can leave only one theme, and uncomment the same. 
+I was forgetting ... there are some extra themes in the `_sass/base/_variables.scss` file disabled. You can leave only one theme, and uncomment the same.
 
 Feel free to configure as you want. :)
 
@@ -141,7 +141,7 @@ Copyrights: William C. Canin | Copyright © 2017
 
 ## Credits
 
-* Name: William C. Canin 
+* Name: William C. Canin
 * Country: Brazil - SP
 * EMail: william.costa.canin@gmail.com    
 * GitHub: [William Canin](http://github.com/williamcanin)
