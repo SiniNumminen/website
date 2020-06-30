@@ -4,7 +4,7 @@ title: Publications
 sitemap:
   priority: 0.7
   changefreq: 'monthly'
-  lastmod: 2020-06-30T12:49:30-05:00
+  lastmod: 2017-05-04T12:49:30-05:00
 
 # Enable / Disable events Google Analytics for this link page.
 ga_event: true

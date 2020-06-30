@@ -1,4 +1,4 @@
-<div class="postlist2" itemscope="itemscope" itemtype="http://schema.org/Blog">
+<div class="postlist" itemscope="itemscope" itemtype="http://schema.org/Blog">
   <div class="row title-description">
 <br>
 <p>
@@ -20,7 +20,7 @@
   </div>
   {% endif %}
   <div class="row content">
-    {% for post in site.categories.blog2 %}
+    {% for post in site.categories.blog %}
     <div class="wrap">
       <div class="time-and-count-comments" datetime="{{ post.date | date:'%Y-%m-%d' }}">
         <time class="time">

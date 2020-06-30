@@ -9,7 +9,7 @@ ga_event: false
 icon: fa-search
 
 # Enable / Disable this page in the main menu.
-menu: true
+menu: false
 
 published: true
 
@@ -19,4 +19,4 @@ script: [search.js]
 permalink: /blog/search/
 ---
 
-Search by title or tags in "Blog".
+Search by title or tags in "Insights".

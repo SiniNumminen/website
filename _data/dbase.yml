@@ -55,8 +55,6 @@ website:
       btnprint: Print
     postlist:
       continue: Continue
-    postlist2:
-      continue: Continue
     post:
       author:
         title: Author

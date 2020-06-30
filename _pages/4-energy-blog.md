@@ -1,5 +1,5 @@
 ---
-layout: postlist2
+layout: page
 title: Energy blog
 
 # Enable / Disable events Google Analytics for this link page.
@@ -20,7 +20,7 @@ menu: true
 published: true
 
 # Does not change and does not remove 'script' variables
-script: [postlist2.js]
+script: [postlist.js]
 
 permalink: /blog2
 ---
