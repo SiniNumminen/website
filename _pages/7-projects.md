@@ -4,7 +4,7 @@ title: Projects
 sitemap:
   priority: 0.7
   changefreq: 'monthly'
-  lastmod: 2017-05-04T12:49:30-05:00
+  lastmod: 2020-06-30T12:49:30-05:00
 
 # Enable / Disable events Google Analytics for this link page.
 ga_event: true
@@ -26,14 +26,15 @@ script: [resume.js]
 permalink: /Projects/
 ---
 
-## Doctoral degree research project: The importance of frugal energy innovations in global energy transitions 2015 – 2019
+## Doctoral research project: The importance of frugal energy innovations in global energy transitions 2015 – 2019
 
-Since 2015, I have studied off-grid and island solutions and PV (photovoltaic) technologies and India. Special focus was chosen as the technical reliability and sustainability questions of solar photovoltaic micro-grids. Research work consisted of<br>
+{% imager research_team.jpg|right|50%|alt="test" %}
+On 20 June 2019, Aalto University admitted me the degree of Doctor of Science in Technology. During the exciting four years, I studied off-grid and island solutions and PV (photovoltaic) technologies and their use among rural communities in India at the [New Energy Technologies Research Group](http://newenergy.physics.aalto.fi){:target="_ blank"} in the School of Science at Aalto University, under the suprervision of [Professor Peter D. Lund](https://people.aalto.fi/peter_lund){:target="_ blank"}. Special focus was the technical reliability and sustainability of solar photovoltaic micro-grids. Research work consisted of<br>
 
-  * **technical data analysis** for measured data;
+  * **technical data analysis** for measured data and laboratory tests for micro-grid system components;
   * **interviews** with off-grid energy practitioners ([industry survey conducted in 2018](/industry_survey_2018/)), micro-grid field staff and solar energy users;
-  * **laboratory tests** for energy system components and
-  * **literature searches** in sustainability analysis, reliability engineering, development studies and solar energy engineering.
+  * **field trips** and observative methods in poor off-grid communities in northern India
+  * **multi-disciplinary sustainability analyses, reliability engineering and development studies**.
 
 <div style="clear:both;">
 </div>

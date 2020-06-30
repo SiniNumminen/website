@@ -30,11 +30,8 @@ permalink: /Author/
 
 <div style="clear:both;"></div>
 <br>
-{% imager research_team.jpg|right|50%|alt="test" %}
-On 20 June 2019, Aalto University admitted me the degree of Doctor of Science in Technology. These webpages describe the research/study project. Before this, I worked in Germany as a researcher in a European association Distributed Energy Resources Laboratories (DERlab) where I gained a strong insight on the potential of renewable and distributed power units and the smart grids concept in Europe. I earned my master's degree in 2009 at Helsinki University of Technology in Electrical Engineering with a minor in Development Studies at the Department of Social Sciences in Helsinki University.
+On 20 June 2019, Aalto University admitted me the degree of Doctor of Science in Technology. Before this, I worked in Germany as a researcher in a European association Distributed Energy Resources Laboratories (DERlab) where I gained a strong insight on the potential of renewable and distributed power units and the smart grids concept in Europe. I earned my master's degree in 2009 at Helsinki University of Technology in Electrical Engineering with a minor in Development Studies at the Department of Social Sciences in Helsinki University.
 <div style="clear:both;"></div>
-
-
 
 ## Personal Data
 
