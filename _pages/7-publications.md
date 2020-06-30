@@ -43,3 +43,17 @@ permalink: /Publications/
 * [Frugal energy innovations for developing countries – a framework](http://onlinelibrary.wiley.com/doi/10.1002/gch2.1012/full){:target="_ blank"} - Numminen, S., Lund, P.D. (2016). Global Challenges. John Wiley & Sons. doi:10.1002/gch2.1012. Abstract (extract): Frugal innovations have recently emerged to feature low-cost technologies and business innovations to serve consumers in emerging markets and improve their quality of life. Although the concept of frugality is well known, the present literature on frugal energy innovations, or energy frugality, is scarce, which could lead to overlooking its true characteristics. Therefore, we propose a framework for defining energy frugality based on a detailed analysis of several low-cost sustainable energy technologies. - - -
 
 * [Implications of frugal innovations on sustainable development: evaluating water and energy innovations](http://www.mdpi.com/2071-1050/8/1/4){:target="_ blank"} - Levänen, J., Hossain, M., Lyytinen, T., Hyvärinen, A., Numminen, S., Halme, M. (2016). Sustainability 2016, 8(1), 4; doi:10.3390/su8010004. Abstract (extract): Frugal innovations are often associated with sustainable development. These connections, however, are based on anecdotal assumptions rather than empirical evidence. This article evaluates sustainability of four frugal innovations from water and energy sectors. For the purposes of the evaluation a set of indicators was developed. Indicators are drawn from sustainable development goals by the United Nations and they encompass central dimensions of sustainability: ecological, social and economic. - - -
+
+## Presentations
+* {% imager front2.jpg|left|35% %}
+[Blackout under a bright sunshine. Quality of solar electricity in rural areas in emerging markets](http://sininumminen.fi/assets/documents/SiniNumminen_AaltoHELSUS_20190509.pdf) - Numminen, S. (9 May, 2019). [New Global session at Sustainability Science day](http://sininumminen.fi/blog/Aalto-sustainable-science-day-presentation/), Aalto University Sustainability Hub and Helsinki Institute of Sustainability Science (University of Helsinki), Espoo, Finland
+
+<div style="clear:both;"></div>
+<div style="clear:both;"></div>
+
+* {% imager front.jpg|left|40% %} [Challenges in operating solar micro-grids in rural Uttar Pradesh](http://sininumminen.fi/assets/documents/Microgrids_reliability_SN.pdf) - Numminen, S. (16 Oct, 2018). Seminar ["Promoting solar energy and solar innovations in rural areas"](http://sininumminen.fi/blog/InSIC-seminar-presentation/), International Solar Innovations Council (InSIC), Helsinki, Finland
+<br>
+<br>
+<div style="clear:both;"></div>
+## Teaching material (in Finnish)
+* [Energian perustarpeita Suomessa ja Intiassa](http://sininumminen.fi/opettajalle_energian_perustarpeita_Suomessa_ja_Intiassa/) - Numminen, S. (27. May, 2019). Opetusmateriaali (esityskalvot ja taustamateriaali) energian perustarpeista ja energian säästämisestä peruskouluille ja lukioille.

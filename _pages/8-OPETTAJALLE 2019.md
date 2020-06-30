@@ -1,6 +1,6 @@
 ---
 layout: resume
-title: PERUSKOULUN JA LUKION OPETTAJILLE
+title: Opettajalle
 sitemap:
   priority: 0.7
   changefreq: 'monthly'

@@ -1,6 +1,6 @@
 ---
-layout: postlist
-title: Insights
+layout: page
+title: Energy blog
 
 # Enable / Disable events Google Analytics for this link page.
 ga_event: false
@@ -22,13 +22,15 @@ published: true
 # Does not change and does not remove 'script' variables
 script: [postlist.js]
 
-permalink: /blog
+permalink: /blog2
 ---
 <br>
 <p>
-{% imager pub5_row.jpg|left|110% %}
+{% imager typing_logotype.png|left|35% %}
 
 </p>
 <div style="clear:both;">
 </div>
-## Posts, pictures and presentations
+## Posts and thoughts about energy saving, smarter energy consumption, and about the rather incomprehensible demand side management (DSM) theory and concept and the new and flexible energy prosumer
+<br>
+1 July, 2020. I am about to open a new blog series about the above mentioned topics here. Stay tuned!
