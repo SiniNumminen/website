@@ -1,13 +1,14 @@
+---
+layout: default
+---
+
+<!-- Include Data Base  -->
+{% include dbase/dbase %}
+
+
 <div class="postlist2" itemscope="itemscope" itemtype="http://schema.org/Blog">
   <div class="row title-description">
-<br>
-<p>
-  {% imager pub5_row.jpg|left|110% %}
-  <div style="clear:both;">
-  </div>
-<br>
-<h2> Posts, pictures and presentations</h2>
-</p>
+    <p>{{ page.msg_qtd[0] }} <strong>{{ post_count }}</strong> {{ page.msg_qtd[1] }} {{ content }} </p>
   </div>
   {% if page.buttons == true %}
   <div class="row meta">

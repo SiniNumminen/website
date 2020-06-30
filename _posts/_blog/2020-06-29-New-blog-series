@@ -1,13 +1,14 @@
 ---
 layout: post
 title:  "New blog series about the-energy-user-side or demand side"
-date:   2020-07-01 12:00:00 -0300
+date:   2020-06-29 12:00:00 -0300
 categories: blog2
 tags: ['demand side management', 'energy user', 'prosumer', 'demand flexibility', 'energy saving', 'energy efficiency', 'less energy', 'new blog' ]
 published: true
 comments: true
 excerpted: |
-  With my new position at the department of design at Aalto university I will be studying demand side flexibility topics, energy efficiency and energy justice --- this blog
+ I have been long time interested and bothered by the possibilities of energy consumption reduction which would be very very important but quite an impossible (with the necessary extent) and therefore rather unlikely (taking the general global energy consumption increase into account and the general disconnection of people's understanding from "energy" and their lives. That they are living an energy-intensive life). Seems t
+
 # Does not change and does not remove 'script' variables
 script: [post.js]
 ---
