@@ -23,7 +23,7 @@ published: true
 # Does not change and does not remove 'script' variables
 script: [resume.js]
 
-permalink: /Introduction/
+permalink: /introduction/
 ---
 <div style="clear:both;"></div>
 <br>

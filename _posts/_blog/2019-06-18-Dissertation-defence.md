@@ -2,7 +2,7 @@
 layout: post
 title:  "Pictures from my dissertation defence and celebration (10 June, 2019)"
 date:   2019-06-17 12:00:00 -0300
-categories: blog
+categories: ['blog']
 tags: ['doctoral degree', dissertation, 'defence', 'solar photovoltaic', 'micro-grids', 'frugal innovation', 'pakora' ]
 published: true
 comments: true
