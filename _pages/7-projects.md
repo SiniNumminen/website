@@ -10,7 +10,7 @@ sitemap:
 ga_event: true
 
 # Icon feature uses Font Awesome
-icon: fa-file-text-o
+icon: fa-paw
 
 # Enable / Disable this page in the main menu.
 menu: true
@@ -61,6 +61,12 @@ blank"} of PV micro-grid supply and demand in Uttar Pradesh in India in collabor
 
 ## New Global of Aalto University 2015 – 2016
 
-  I am a member of an [interdisciplinary innovation and action research network New Global](http://newglobal.aalto.fi){:target="_ blank"}. Through action research, experimentation, co-creation this network aims to foster the necessary capabilities for co-creating frugal and reverse innovations in global systems.
+I am a member of an [interdisciplinary innovation and action research network New Global](http://newglobal.aalto.fi){:target="_ blank"}. Through action research, experimentation, co-creation this network aims to foster the necessary capabilities for co-creating frugal and reverse innovations in global systems.
 
-  {% imager New_Global_logo.png|left|60% %}
+{% imager New_Global_logo.png|left|60% %}
+
+<div style="clear:both;">
+---
+</div>
+##  More
+about the Author on [Introduction](http://www.sininumminen.fi/introduction).

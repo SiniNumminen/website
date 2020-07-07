@@ -35,14 +35,11 @@ permalink: /introduction/
 <br>
 <div style="clear:both;"></div>
 
-I have been long time interested and bothered by the possibilities of energy consumption reduction which would be very very important but quite impossible (with the necessary extent) and therefore rather unlikely (taking into account the fact that there global energy consumption still continues to raise etc).
-
 **Readings and writings about demand response and energy use**
 
-Posts, news and writings since July 2020 (hopefully about Posts and thoughts about energy saving, smarter energy consumption, and about the rather incomprehensible demand side management (DSM) theory and concept and the new, flexible energy prosumer and other stuff can be read on the [Blog](http://sininumminen.fi/blog2)
+Posts, news and writings about energy saving, smarter energy consumption, and about the rather incomprehensible demand side management (DSM) theory and concept and the new, flexible energy prosumer and other stuff can be read on the [Blog](http://sininumminen.fi/blog2). This new blog I started in August 2020.
 
-Initially the website was created to disseminate information on my doctoral research project
-[Blog Archive](http://sininumminen.fi/blog) contains posts, news 2017-2019 (my doctoral research project e.g. about India) can be read on the
+Initially the website was created to disseminate information on my doctoral research project. [Blog Archive](http://sininumminen.fi/blog) contains posts, news 2017-2019 (my doctoral research project e.g. about India).
 
 <div style="clear:both;"></div>
 <br>

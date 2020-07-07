@@ -4,7 +4,7 @@ title:  "New blog series about the-energy-user-side or demand side"
 date:   2020-06-29 12:00:00 -0300
 categories: energy
 tags: ['demand side management', 'energy user', 'prosumer', 'demand flexibility', 'energy saving', 'energy efficiency', 'less energy', 'new blog' ]
-published: true
+published: false
 comments: true
 excerpted: |
  I have been long time interested and bothered by the possibilities of energy consumption reduction which would be very very important but quite
