@@ -1,6 +1,6 @@
 ---
 layout: resume
-title: Energy blog
+title: Energy Blog
 sitemap:
   priority: 0.7
   changefreq: 'monthly'
@@ -24,12 +24,15 @@ published: true
 script: [resume.js]
 
 permalink: /blog2/
-
 ---
-{% imager typing_logotype.png|left|35% %}
+<div style="clear:both;"></div>
+<br>
+
+{% imager energyusersrow.jpg|left|95% %}
 
 <div style="clear:both;"></div>
-
-### Posts and thoughts about energy saving, smarter energy consumption, and about the rather incomprehensible demand side management (DSM) theory and concept and the new, flexible energy prosumer
 <br>
-30 June, 2020. I am about to open a new blog series about the above mentioned topics here. Stay tuned!
+<br>
+<div style="clear:both;"></div>
+
+30 June, 2020. I am about to open a new blog series about energy saving, smarter energy consumption, and about the rather incomprehensible demand side management (DSM) theory and concept and the new, flexible energy prosumer. Stay tuned!

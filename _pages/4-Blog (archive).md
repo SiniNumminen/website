@@ -1,6 +1,6 @@
 ---
 layout: postlist
-title: Archived
+title: Blog (archive)
 
 # Enable / Disable events Google Analytics for this link page.
 ga_event: false
