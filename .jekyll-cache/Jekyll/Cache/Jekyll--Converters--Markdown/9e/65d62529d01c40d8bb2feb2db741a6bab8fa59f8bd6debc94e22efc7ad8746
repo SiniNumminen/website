@@ -1,0 +1,77 @@
+I"m<p><img style="float: left; width: 100%; margin-right: 2%" class="img-responsive" src="/assets/images/posts/scenery_village_roofs.jpg" />
+Local entrepreneur Boond Ltd. has setup several solar micro-grids villages in Uttar Pradesh, India. Pico-grids are small micro-grids that supply the connected households with limited capacity. In these villages the maximum instantaneous power is 30 W. Pictures are taken by me during a visit in 2016.</p>
+
+<div style="clear:both;">
+  <hr />
+</div>
+
+<p><img style="float: left; width: 50%; margin-right: 2%" class="img-responsive" src="/assets/images/posts/DC_energy_meter_setup.jpg" />
+Typically this is how the setup of a microgrid was demonstrated in the household; including direct current socket, switches for turning on and off the lighting and a smart energy meter.</p>
+
+<div style="clear:both;">
+  <hr />
+</div>
+
+<p><img style="float: left; width: 50%; margin-right: 2%" class="img-responsive" src="/assets/images/posts/DC_energy_meter_stained.jpg" />
+Smoke from indoor cooking stoves and kerosene lamps have stained the electrical installations in this home.</p>
+
+<div style="clear:both;">
+  <hr />
+</div>
+
+<p><img style="float: left; width: 50%; margin-right: 2%" class="img-responsive" src="/assets/images/posts/DC_bulb.jpg" />
+This LED bulb consumes around 3 W.</p>
+
+<div style="clear:both;">
+  <hr />
+</div>
+
+<p><img style="float: left; width: 50%; margin-right: 2%" class="img-responsive" src="/assets/images/posts/DC_radio.jpg" />
+Private sound system of a micro-grid customer.</p>
+
+<div style="clear:both;">
+  <hr />
+</div>
+
+<p><img style="float: left; width: 50%; margin-right: 2%" class="img-responsive" src="/assets/images/posts/DC_workshop.JPG" />
+”DC (direct current) is common knowledge”, I learned. This boy shows me how he had repaired a broken socket in his home.</p>
+
+<div style="clear:both;">
+  <hr />
+</div>
+
+<p><img style="float: left; width: 50%; margin-right: 2%" class="img-responsive" src="/assets/images/posts/DC_energy_meter_bottom.JPG" />
+This smart meter has just one design fault: Reptiles can enter the casing from the bottom of the meter. An unfortunate lizard made a home in one of the meters and it  exploded.</p>
+
+<div style="clear:both;">
+  <hr />
+</div>
+<p>Technical details</p>
+
+<p>PV panels: Two Alpex Solar “Alpex 12100 100 W” panels. Application class: A. Open-circuit voltage 21 V, short-circuit current 6.15 A.</p>
+
+<p>Battery bank: Two tubular type lead-acid batteries Artheon Black EON 60 T “Premium Quality Solar Battery”. 12 V, 60 Ah each. Cut-off voltage 21.6 V.</p>
+
+<p>Central charging station: Manufacturer EmSys Electronics. Output: 24 V DC. Short circuit protection, over load protection, low-voltage cut-off and high voltage cut-off. Data logging.
+Distribution: 24 V DC, 24 hours per day.</p>
+
+<p>Energy meter: Manufacturer, EmSys Electronics. Input 24 V DC. Output 12 V DC. Maximum instantaneous output: 30 W.</p>
+
+<p>Loads per household: Three LED light bulbs (à 3 W), a fan (à 18 W), and a socket for connecting small electronic appliances.</p>
+
+<p>Communication: Serial communication and a separate data cable, baud rate 9600 bps (RS-485)
+System provider: Boond Engineering &amp; Development Pvt Ltd (www.boond.net)</p>
+
+<p>More information:</p>
+
+<p>Numminen, S., Yoon, S., Urpelainen, J., Lund, P.D. (2018). An Evaluation of Dynamic Electricity Pricbing for Solar Micro-Grids in Rural India. Energy Strategy Reviews vol 21, pages 130-136.</p>
+
+<p>Numminen, S., Lund, P., D., Yoon, S., Urpelainen, J. (2018). Power availability and reliability of solar pico-grids in rural areas: a case study from northern India. Sustainable Energy Technologies and Assessments, vol 29, pages 147-154.</p>
+
+<p>Numminen, S., Lund, P.D., 2016. Frugal energy innovations for developing countries – a framework. Global Challenges.</p>
+
+<div style="clear:both;"></div>
+
+<hr style="border-top: 1px solid #9D9D9D ; color: #9D9D9D ;" class="endpost" />
+
+:ET
