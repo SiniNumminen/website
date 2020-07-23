@@ -11,7 +11,7 @@ icon: fa-envelope
 # Enable / Disable this page in the main menu.
 menu: false
 
-published: true
+published: false
 
 # Does not change and does not remove 'script' variables
 script: [contact.js]
