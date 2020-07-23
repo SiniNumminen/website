@@ -35,11 +35,9 @@ permalink: /introduction/
 <br>
 <div style="clear:both;"></div>
 
-**Readings and writings about demand response and energy use**
+<b>Upcoming</b>: Posts, news and writings about energy, energy consumption and saving can be found on the new [Energy Blog](http://sininumminen.fi/blog). I will start this new blog in August 2020 with a special focus on the user side and behavioural elements related to energy.
 
-Posts, news and writings about energy saving, smarter energy consumption, and about the rather incomprehensible demand side management (DSM) theory and concept and the new, flexible energy prosumer and other stuff can be read on the [Blog](http://sininumminen.fi/blog2). This new blog I started in August 2020.
-
-Initially the website was created to disseminate information on my doctoral research project. [Blog Archive](http://sininumminen.fi/blog) contains posts, news 2017-2019 (my doctoral research project e.g. about India).
+Initially this website was created to disseminate information on my doctoral research project. [Blog Archive](http://sininumminen.fi/archive) contains posts, news 2017-2019 (my doctoral research project e.g. about India).
 
 <div style="clear:both;"></div>
 <br>
@@ -49,6 +47,10 @@ Initially the website was created to disseminate information on my doctoral rese
 ## Author
 
 ### Sini Numminen, D.Sc. (Tech.)
+
+**Postdoctoral researcher** at the [Department of Design](https://www.aalto.fi/en/department-of-design){:target="_ blank"}, School of Arts, Design and Architecture, Aalto University and **Senior Analyst** at [VaasaETT](http://www.vaasaett.com){:target="_ blank"}, Finland.<br>
+
+### Education
 
 **Doctor of Science in Technology**: Engineering Physics (Energy Sciences), School of Science at Aalto University, 2019<br>
 * **Dissertation**: <i>Reliability and sustainability analyses of frugal solar photovoltaic micro-grid systems in emerging markets</i> [Download from Aaltodocs](https://aaltodoc.aalto.fi/handle/123456789/37842){:target="_ blank"}
