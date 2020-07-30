@@ -35,7 +35,7 @@ permalink: /introduction/
 <br>
 <div style="clear:both;"></div>
 
-<b>Upcoming</b>: Posts, news and writings about energy, energy consumption and saving can be found on the new [Energy Blog](http://sininumminen.fi/blog). I will start this new blog in August 2020 with a special focus on the user side and behavioural elements related to energy.
+<b>Upcoming</b>: Posts, news and writings about energy, energy consumption and saving can be found on the new [Energy Blog](http://sininumminen.fi/blog). I will start this new blog in August 2020 with a special focus on the user side and energy demand issues.
 
 Initially this website was created to disseminate information on my doctoral research project. [Blog Archive](http://sininumminen.fi/archive) contains posts, news 2017-2019 (my doctoral research project e.g. about India).
 
@@ -55,7 +55,7 @@ Initially this website was created to disseminate information on my doctoral res
 **Doctor of Science in Technology**: Engineering Physics (Energy Sciences), School of Science at Aalto University, 2019<br>
 * **Dissertation**: <i>Reliability and sustainability analyses of frugal solar photovoltaic micro-grid systems in emerging markets</i> [Download from Aaltodocs](https://aaltodoc.aalto.fi/handle/123456789/37842){:target="_ blank"}
 * **Research Group**: [New Energy Technologies Group](http://newenergy.physics.aalto.fi){:target="_ blank"}<br>
-* **Supervisor**: Professor Peter D. Lund]<br>  
+* **Supervisor**: Professor Peter D. Lund<br>  
 
 **Master of Science in Technology**: Electrical Engineering at Helsinki University of Technology<br>
 * **Major**: Electrical physics
@@ -64,7 +64,7 @@ Initially this website was created to disseminate information on my doctoral res
 ### Work experience
 
 * **Postdoctoral researcher**, [Department of Design](https://www.aalto.fi/en/department-of-design){:target="_ blank"}, School of Arts, Design and Architecture, Aalto University, Espoo, Finland, 8/2020–<br>
-* **Senior Analyst**, [VaasaETT](http://www.vaasaett.com){:target="_ blank"}, Helsinki, Finland, 8/2019– -<br>
+* **Senior Analyst**, [VaasaETT](http://www.vaasaett.com){:target="_ blank"}, Helsinki, Finland, 8/2019–<br>
 * **Doctoral candidate**, Department of Applied Physics, School of Science, Aalto University, Espoo, Finland, 2015–2019<br>
 * **Researcher**, European Distributed Energy Resources Laboratories (DERlab) e.V., Kassel, Germany, 2010–2014<br>
 

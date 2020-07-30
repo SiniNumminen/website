@@ -69,4 +69,4 @@ I am a member of an [interdisciplinary innovation and action research network Ne
 ---
 </div>
 ##  More
-about the Author on [Introduction](http://www.sininumminen.fi/introduction).
+about the Author on [Introduction](http://sininumminen.fi/introduction).
