@@ -63,18 +63,27 @@ Initially this website was created to disseminate information on my doctoral res
 
 ### Work experience
 
-* **Postdoctoral researcher**, [Department of Design](https://www.aalto.fi/en/department-of-design){:target="_ blank"}, School of Arts, Design and Architecture, Aalto University, Espoo, Finland, 8/2020–<br>
+* **Postdoctoral researcher**, NODUS research group, [Department of Design](https://www.aalto.fi/en/department-of-design){:target="_ blank"}, School of Arts, Design and Architecture, Aalto University, Espoo, Finland, 8/2020–<br>
 * **Senior Analyst**, [VaasaETT](http://www.vaasaett.com){:target="_ blank"}, Helsinki, Finland, 8/2019–<br>
 * **Doctoral candidate**, Department of Applied Physics, School of Science, Aalto University, Espoo, Finland, 2015–2019<br>
 * **Researcher**, European Distributed Energy Resources Laboratories (DERlab) e.V., Kassel, Germany, 2010–2014<br>
 
+### Teaching experience
+
+* **Lecturer of energy access/energy poverty/sustainable energy**<br> Various lectures at Aalto University courses, and Scientists in schools project (for Finnih primary, secondary and high school students), 2016–
+* **Course assistant**, Aalto University<br>
+Multi-disciplinary energy perspectives (PHYS-C1380), 2016, 2018, 2020<br>
+Fundamentals of new energy sources (PHYS-C6370), 2016, 2020<br>
+Advances in new energy technologies (PHYS-E0483), 2015<br>
+* **Course developer/teaching assistant**, Helsinki University of Technology: Laboratory course for physics, 2004–2006
+
 ### Languages
 
-* **Finnish** - Mother tongue
-* **English** - Fluent
-* **Swedish** - Good
-* **French** - Good
-* **German** - Basic
+* **Finnish** – Mother tongue
+* **English** – Fluent
+* **Swedish** – Good
+* **French** – Good
+* **German** – Basic
 
 ### Contact
 **Email**: sini.numminen iki.fi<br>

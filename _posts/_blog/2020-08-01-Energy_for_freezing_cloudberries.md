@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Blog post template (add title here)"
-date:   2020-01-08 12:00:00 -0300
+date:   2020-08-07 12:00:00 -0300
 categories: energy
 tags: ['tag1', 'tag2' ]
 published: false
