@@ -1,4 +1,5 @@
-I"~<div class="postlist" itemscope="itemscope" itemtype="http://schema.org/Blog">
+I":
+<div class="postlist" itemscope="itemscope" itemtype="http://schema.org/Blog">
   <div class="row title-description">
     <p><img style="float: left; width: 100%; margin-right: 2%" class="img-responsive" src="/assets/images/posts/energyusersrow.jpg" /></p>
     <div style="clear:both;">
@@ -12,6 +13,30 @@
         <p>
 </p>
         <div class="row content">
+
+          <div class="wrap">
+            <div class="time-and-count-comments" datetime="2020-10-10">
+              <time class="time">
+
+
+
+
+
+October
+  
+10,
+2020
+
+</time>
+
+            </div>
+            <div class="url">
+              <h1>
+<a href="http://localhost:4000/blog/Movie-star-under-shower/">Energy consuming device 2: Shower head. Movie hero under shower</a>
+</h1>
+              <p class="excerpted">A popular movie scene is where the hero(/ine) arrives home, seemingly exhausted and worn from her world-saving activities; she takes off her clothes and steps into…<a href="http://localhost:4000/blog/Movie-star-under-shower/" class="continue"></a></p>
+            </div>
+          </div>
 
           <div class="wrap">
             <div class="time-and-count-comments" datetime="2020-08-27">
