@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Energy consuming device 2: Showerhead. Movie hero in the shower"
+title:  "Energy consumer device 2: Showerhead. Movie hero in the shower"
 date:   2020-10-10 01:00:00 -0300
 categories: energy
 tags: ['energyhero', 'showering', 'movies', 'energypractice', 'water', 'hotwater', 'showerhead']
