@@ -45,8 +45,13 @@ permalink: /Publications/
 * [Implications of frugal innovations on sustainable development: evaluating water and energy innovations](http://www.mdpi.com/2071-1050/8/1/4){:target="_ blank"} - Levänen, J., Hossain, M., Lyytinen, T., Hyvärinen, A., Numminen, S., Halme, M. (2016). Sustainability 2016, 8(1), 4; doi:10.3390/su8010004. Abstract (extract): Frugal innovations are often associated with sustainable development. These connections, however, are based on anecdotal assumptions rather than empirical evidence. This article evaluates sustainability of four frugal innovations from water and energy sectors. For the purposes of the evaluation a set of indicators was developed. Indicators are drawn from sustainable development goals by the United Nations and they encompass central dimensions of sustainability: ecological, social and economic. - - -
 
 ## Presentations
+* {% imager front6.jpg|left|40% %} [Energy for what? A look at users, uses, needs and solutions](http://sininumminen.fi/assets/documents/SiniNumminen_AaltoSustainabilityTalks20201127.pdf) - Numminen, S. (27 Nov, 2020).  [Aalto Sustainability Talks](http://sininumminen.fi/blog/Aalto-Sustainability-Talks-2020-presentation/), Aalto University Sustainability Hub, Espoo, Finland. Video recording will be available on [Youtube](https://www.youtube.com/channel/UCLIDbYJCT0oxtd2Esk0-OoQ).
+
+<div style="clear:both;"></div>
+<br>
+<div style="clear:both;"></div>
 * {% imager front2.jpg|left|35% %}
-[Blackout under a bright sunshine. Quality of solar electricity in rural areas in emerging markets](http://sininumminen.fi/assets/documents/SiniNumminen_AaltoHELSUS_20190509.pdf) - Numminen, S. (9 May, 2019). [New Global session at Sustainability Science day](http://sininumminen.fi/blog/Aalto-sustainable-science-day-presentation/), Aalto University Sustainability Hub and Helsinki Institute of Sustainability Science (University of Helsinki), Espoo, Finland
+[Blackout under a bright sunshine. Quality of solar electricity in rural areas in emerging markets](http://sininumminen.fi/assets/documents/SiniNumminen_AaltoHELSUS_20190509.pdf) - Numminen, S. (9 May, 2019). [New Global session at Sustainability Science day](http://sininumminen.fi/blog/Aalto-sustainable-science-day-presentation/), Aalto University Sustainability Hub and Helsinki Institute of Sustainability Science (University of Helsinki), Espoo, Finland.
 
 <div style="clear:both;"></div>
 <div style="clear:both;"></div>
