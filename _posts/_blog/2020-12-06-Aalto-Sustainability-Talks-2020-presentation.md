@@ -21,7 +21,7 @@ The topic of November's [Aalto Sustainability Talks](https://www.aalto.fi/en/eve
 <div style="clear:both;"></div>
 <br>
 
-[Here you may find my presentation slides](http://sininumminen.fi/assets/documents/SiniNumminen_AaltoSustainabilityTalks20201127.pdf), my 15-minutes talk (in written, because of stage fright I wrote it all down beforehand). Video recording link will be available on [Aalto University Youtube Channel](https://www.youtube.com/channel/UCLIDbYJCT0oxtd2Esk0-OoQ) soon.
+[Here you may find my presentation slides](http://sininumminen.fi/assets/documents/SiniNumminen_AaltoSustainabilityTalks20201127.pdf), my 15-minutes talk (in written, because of stage fright I wrote it all down beforehand). Video recording link is available on [Aalto University Youtube Channel](https://www.youtube.com/watch?v=JQPm5cIOPy4).
 
 <h3>PRESENTATION: Energy for what? A look at users, uses, needs and solutions.</h3>
 

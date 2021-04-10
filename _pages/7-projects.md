@@ -25,6 +25,10 @@ script: [resume.js]
 
 permalink: /Projects/
 ---
+## Towards Eco-Welfare State ORSI 2021–
+
+In the coming decade, societies must adapt their activities to meet environmental limits. Finland must transform from a welfare state into an eco-welfare state. At the same time, we must ensure that our political goals and the practical measures we take to achieve them are as just and socially acceptable as possible. [The ORSI project](https://www.ecowelfare.fi/en/){:target="_ blank"}, funded by the Strategic Research Council, is looking to address these challenges. I am currently involved in the project activities through my postdoctoral researcher position at Aalto University.
+
 ## Energy poverty project ASSIST 2019–2020
 
 ASSIST was a European research and action project on energy poverty research and alleviation. I managed the project activities in Finland in practice e.g. by organising energy training events and producing reports. A highlight was a webinar in March 2020 where experts from academia, industry, civil society and state organisations shared views on energy poverty in Finland. Watch [recording](https://www.youtube.com/watch?feature=youtu.be&v=CKwhm4RWCxo){:target="_ blank"} (<i>Finnish</i>) or read the [webinar report](https://www.vaasaett.com/s/Energypoverty_webinar_Finland20200325_report.pdf){:target="_ blank"} (<i>English</i>). We also interviewed vulnerable Finnish household owners on their experiences ([see report](https://www.assist2gether.eu/news-190-survey_heating_costs_a_significant_financial_burden_for_many_homeowners_in_finland){:target="_ blank"}). ASSIST was probably the first EC funded project in Finland fully focusing on energy poverty.
@@ -40,6 +44,8 @@ On 20 June 2019, Aalto University admitted me the degree of Doctor of Science in
   * **interviews** with off-grid energy practitioners ([industry survey conducted in 2018](/industry_survey_2018/)), micro-grid field staff and solar energy users;
   * **field trips** and observative methods in poor off-grid communities in northern India
   * **multi-disciplinary sustainability analyses, reliability engineering and development studies**.
+
+My doctoral project is nicely presented in the [New Global website](https://newglobal.aalto.fi/phd/reliability-and-sustainability-analyses-of-frugal-solar-photovoltaic-micro-grid-systems-in-emerging-markets/){:target="_ blank"} with reflections on the global contribution of the work. 
 
 <div style="clear:both;">
 </div>
@@ -66,7 +72,7 @@ blank"} of PV micro-grid supply and demand in Uttar Pradesh in India in collabor
 
 ## New Global of Aalto University 2015–2016
 
-I am a member of an [interdisciplinary innovation and action research network New Global](http://newglobal.aalto.fi){:target="_ blank"}. Through action research, experimentation, co-creation this network aims to foster the necessary capabilities for co-creating frugal and reverse innovations in global systems.
+I am a member of an [interdisciplinary innovation and action research network New Global](http://newglobal.aalto.fi){:target="_ blank"}. Through action research, experimentation and co-creation this network aims to foster the necessary capabilities for co-creating frugal and reverse innovations in global systems.
 
 {% imager New_Global_logo.png|left|60% %}
 
