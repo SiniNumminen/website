@@ -1,4 +1,4 @@
-I"Ù<div class="postlist" itemscope="itemscope" itemtype="http://schema.org/Blog">
+I"¹<div class="postlist" itemscope="itemscope" itemtype="http://schema.org/Blog">
   <div class="row title-description">
     <p><img style="float: left; width: 100%; margin-right: 2%" class="img-responsive" src="/assets/images/posts/energyusersrow.jpg" /></p>
     <div style="clear:both;">
@@ -12,6 +12,30 @@
         <p>
 </p>
         <div class="row content">
+
+          <div class="wrap">
+            <div class="time-and-count-comments" datetime="2021-05-07">
+              <time class="time">
+
+
+
+
+
+May
+  
+07,
+2021
+
+</time>
+
+            </div>
+            <div class="url">
+              <h1>
+<a href="http://localhost:4000/blog/energy-weather-forecast-to-tv/">Making green consumption-shifts fashionable. Energy weather forecast to the TV!</a>
+</h1>
+              <p class="excerpted">In my last blog [1] I called for more environmentally-friendly and weather-sensitive power consumption styles to private Finnish homes. For example, people should try to avoidâ€¦<a href="http://localhost:4000/blog/energy-weather-forecast-to-tv/" class="continue"></a></p>
+            </div>
+          </div>
 
           <div class="wrap">
             <div class="time-and-count-comments" datetime="2021-04-09">
