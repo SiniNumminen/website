@@ -90,9 +90,9 @@ I contributed to following ASSIST project deliverables in 2020:
 
 * [ASSIST Action National Reports (D5.3)](http://sininumminen.fi/assets/documents/ASSIST/ASSIST2020_D53_report_national_assist_actions.pdf), February 2020
 
-* [Kodin energiakysely 2019 – tuloksia Suomesta](http://sininumminen.fi/assets/documents/ASSIST/ASSIST2020_Finland_report_energypoverty_survey_FIN.pdf) (Report in Finnish on survey for vulnerable Finnish home owners), May 2020. [News bulletin](http://sininumminen.fi/assets/documents/ASSIST/ASSIST2020_Finland_bulletin_energypoverty_survey20200529.pdf) in English.
+* [Kodin energiakysely 2019 – tuloksia Suomesta](http://sininumminen.fi/assets/documents/ASSIST/ASSIST2020_Finland_report_energypoverty_survey_FIN.pdf), May 2020. Related news bulletin: [Survey: Heating costs a significant financial burden for many homeowners in Finland](http://sininumminen.fi/assets/documents/ASSIST/ASSIST2020_Finland_bulletin_energypoverty_survey20200529.pdf) in English.
 
-* [Energy poverty in Finland: Webinar report 25 March 2020](ASSIST2020_Finland_report_energypoverty_webinar20200325.pdf), March 2020.
+* [Energy poverty in Finland: Webinar report 25 March 2020](http://sininumminen.fi/assets/documents/ASSIST/ASSIST2020_Finland_report_energypoverty_webinar20200325.pdf), March 2020.
 
 For archiving purposes, here also other ASSIST project deliverables. I have not authored these, credits [ASSIST consortium](http://www.assist2gether.eu/), 2018.
 * [Vulnerable Consumers Market Segmentation Report (D5.1)](http://sininumminen.fi/assets/documents/ASSIST/ASSIST2018_D51_report_vulnerable_consumers_market_segmentation.pdf)
