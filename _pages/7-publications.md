@@ -34,7 +34,7 @@ permalink: /Publications/
 
 * <b>Upcoming</b>: Locked in flat tariffs. Energy retailers struggle with attracting customers to demand response through dynamic pricing - Numminen, S., Ruggiero, S. and Jalas, M.
 
-* <b>Upcoming</b>: Prime-time Access for whom? Reshaping the Rhythms of Consumption Through dynamic Pricing of Infrastructure Services with - Jalas, M., Numminen, S.
+* <b>Upcoming</b>: Prime-time Access for whom? Reshaping the Rhythms of Consumption Through dynamic Pricing of Infrastructure Services - Jalas, M., Numminen, S.
 
 * <b>Upcoming</b>: Smart off-grid infrastructure for the Global South?: A case study of Solar2Go in India - Numminen, S., Bandi, V., Sahrakorpi, T.
 
@@ -90,7 +90,7 @@ I contributed to following ASSIST project deliverables in 2020:
 
 * [ASSIST Action National Reports (D5.3)](http://sininumminen.fi/assets/documents/ASSIST/ASSIST2020_D53_report_national_assist_actions.pdf), February 2020
 
-* [Kodin energiakysely 2019 – tuloksia Suomesta](http://sininumminen.fi/assets/documents/ASSIST/ASSIST2020_Finland_report_energypoverty_survey_FIN.pdf), May 2020. Related news bulletin: [Survey: Heating costs a significant financial burden for many homeowners in Finland](http://sininumminen.fi/assets/documents/ASSIST/ASSIST2020_Finland_bulletin_energypoverty_survey20200529.pdf) in English.
+* [Kodin energiakysely 2019 – tuloksia Suomesta](http://sininumminen.fi/assets/documents/ASSIST/ASSIST2020_Finland_report_energypoverty_survey_FIN.pdf), May 2020. Related news bulletin: [Survey: Heating costs a significant financial burden for many homeowners in Finland](http://sininumminen.fi/assets/documents/ASSIST/ASSIST2020_Finland_bulletin_energypoverty_survey20200529.pdf)
 
 * [Energy poverty in Finland: Webinar report 25 March 2020](http://sininumminen.fi/assets/documents/ASSIST/ASSIST2020_Finland_report_energypoverty_webinar20200325.pdf), March 2020.
 
