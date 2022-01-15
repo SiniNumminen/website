@@ -33,7 +33,7 @@ In the coming decade, societies must adapt their activities to meet environmenta
 
 ASSIST was a European research and action project on energy poverty research and alleviation. I managed the project activities in Finland in practice e.g. by organising energy training events and producing reports. A highlight was a webinar in March 2020 where experts from academia, industry, civil society and state organisations shared views on energy poverty in Finland. Watch [recording](https://www.youtube.com/watch?feature=youtu.be&v=CKwhm4RWCxo){:target="_ blank"} (<i>Finnish</i>) or read the [webinar report](https://www.vaasaett.com/s/Energypoverty_webinar_Finland20200325_report.pdf){:target="_ blank"} (<i>English</i>). We also interviewed vulnerable Finnish household owners on their experiences ([see report](https://www.assist2gether.eu/news-190-survey_heating_costs_a_significant_financial_burden_for_many_homeowners_in_finland){:target="_ blank"}). ASSIST was probably the first EC funded project in Finland fully focusing on energy poverty.
 
-ASSIST  (Support network for household energy saving) functioned in 6 European countries between 2017 and 2020. Key project results include [Vulnerable consumers and fuel poverty report](https://www.vaasaett.com/s/vulnerable_consumers_and_fuel_poverty_report.pdf){:target="_ blank"} which is an overview of the profile of energy vulnerable people in Europe. See also [videos on project outcome](https://www.assist2gether.eu/news-206-the_assist_experience_country_by_country){:target="_ blank"} on project website. Finnish partner in the project was [VaasaETT](http://www.vaasaett.com){:target="_ blank"}.
+ASSIST  (Support network for household energy saving) functioned in 6 European countries between 2017 and 2020. Key project results include [Vulnerable consumers and fuel poverty report](https://www.vaasaett.com/s/vulnerable_consumers_and_fuel_poverty_report.pdf){:target="_ blank"} which is an overview of the profile of energy vulnerable people in Europe. See also [project country coordinators commenting project outcome](https://www.assist2gether.eu/news-206-the_assist_experience_country_by_country){:target="_ blank"} on project website. Finnish partner in the project was [VaasaETT](http://www.vaasaett.com){:target="_ blank"}.
 
 ## Doctoral research project: The importance of frugal energy innovations in global energy transitions 2015–2019
 
@@ -45,7 +45,7 @@ On 20 June 2019, Aalto University admitted me the degree of Doctor of Science in
   * **field trips** and observative methods in poor off-grid communities in northern India
   * **multi-disciplinary sustainability analyses, reliability engineering and development studies**.
 
-My doctoral project is nicely presented in the [New Global website](https://newglobal.aalto.fi/phd/reliability-and-sustainability-analyses-of-frugal-solar-photovoltaic-micro-grid-systems-in-emerging-markets/){:target="_ blank"} with reflections on the global contribution of the work. 
+My doctoral project is nicely presented in the [New Global website](https://newglobal.aalto.fi/phd/reliability-and-sustainability-analyses-of-frugal-solar-photovoltaic-micro-grid-systems-in-emerging-markets/){:target="_ blank"} with reflections on the global contribution of the work.
 
 <div style="clear:both;">
 </div>

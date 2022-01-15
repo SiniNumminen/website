@@ -28,7 +28,7 @@ Like this, people could better match their electricity consumption with renewabl
 
 A typical weather announcement could sound something like this: “Plenty of wind power production expected in the Ostrobothnia region – tomorrow will be a good time to bake”. Or “Water reserves low in Norway – try avoiding electrical activities for the next two days. After that it will have rained sufficiently again in the mountains.” With these words, the cryptic energy system and the wholesale market data is explained in more practical terms. Similarly than cryptic atmospheric data is currently explained in weather forecasts.
 
-{% imager saaennuste_YLE1975.png|left|100% %}
+1{% imager saaennuste_YLE1975.png|left|100% %}
 
 <i>Image: YLE [3]</i>
 

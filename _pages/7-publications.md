@@ -32,19 +32,34 @@ permalink: /Publications/
 
 ## Papers
 
-* [Multilevel Customer Segmentation for Off-Grid Solar in Developing Countries: Evidence from Solar Home Systems in Rwanda and Kenya](http://www.sciencedirect.com/science/article/pii/S0360544219313854){:target="_ blank"} - Kennedy, R., Numminen, S., Sutherland, J., Urpelainen, J. (2019). Energy, vol 186, number 115728, doi:10.1016/j.energy.2019.07.058. Abstract: Off-grid solar systems have a number of advantages in developing countries, but they rely on the capacity of private entrepreneurs to develop a reliable customer base and methods for recruiting these customers. This study uses data from 68,600 customers of BBOXX, a London-based off-grid solar power company, to classify customers and explore the demographic and recruitment factors associated with customer behavior. We compare a non-parametric clustering method for customer segmentation with linear models of customer behavior. The results show a number of important demographic and geographic factors that influence recruitment of the company's core customers, and demonstrates how linear models can be misleading. For example, women and those recruited by agent advertising or word-of-mouth are more likely in the company's core clientele, even though the linear models suggest that they may be less profitable customers.
+* <b>Upcoming</b>: Locked in flat tariffs. Energy retailers struggle with attracting customers to demand response through dynamic pricing - Numminen, S., Ruggiero, S. and Jalas, M.
 
-* [Evaluation of the reliability of solar micro-grids in emerging markets – Issues and solutions](https://www.sciencedirect.com/science/article/pii/S0973082618311797?dgcid=author){:target="_ blank"} - Numminen, S., Lund, PD. (2019). Energy for Sustainable Development, vol 48, pages 34-42. doi:10.1016/j.esd.2018.10.006. Abstract: One of the most important technical features of a power system is its ability to deliver electricity reliably to the customers. Based on interviews with 12 energy service companies (ESCO) currently operating solar micro-grids in northern rural India, this study identified important factors related to technical design, customer behaviour and operations and management (O&M) that may result in contingencies in service. In addition, the study presents companies' innovative solutions to overcome these problems. Initially, the interview method allowed only a rough qualitative comparison of different reliability levels as the availability of comparable data was limited. We found that a more descriptive method for reliability assessment would create equally valuable information on renewable off-grid energy projects. We propose a simple framework for assessing reliability that highlights the particular features of off-grid areas in developing countries.
+* <b>Upcoming</b>: Prime-time Access for whom? Reshaping the Rhythms of Consumption Through dynamic Pricing of Infrastructure Services with - Jalas, M., Numminen, S.
 
-* [Power availability and reliability of solar pico-grids in rural areas: a case study from northern India](https://www.sciencedirect.com/science/article/pii/S221313881730632X){:target="_ blank"} - Numminen, S., Lund, PD., Yoon, S., Urpelainen, J. (2018). Sustainable Energy Technologies and Assessments, vol 29, pages 147-154. doi:10.1016/j.seta.2018.08.005. Abstract: Solar micro-grids are receiving increasing interest in the electrification in emerging economies. On-site performance studies of these systems have become more important as the global market is being supplied with an ever-greater variety of solar power equipment with inconsistent quality. We studied the reliability of seven small identical low-power DC solar grids installed in real settings in villages in rural northern India. A detailed analysis of measurement data, interviews and field visits over a whole year showed that solar electricity was available to the households for 87% of the time. Along with technical problems, a share of the power shortages was an indirect cause of an illegal behaviour of users. The study draws attention to quality recommendations for energy access for consumers with modest energy needs.
+* <b>Upcoming</b>: Smart off-grid infrastructure for the Global South?: A case study of Solar2Go in India - Numminen, S., Bandi, V., Sahrakorpi, T.
 
-* [An Evaluation of Dynamic Electricity Pricing for Solar Micro-Grids in Rural India](https://www.sciencedirect.com/science/article/pii/S2211467X18300506){:target="_ blank"} - Numminen, S., Yoon, S., Urpelainen, J., Lund, P.D. (2018). Energy Strategy Reviews vol 21, pages 130-136. doi:10.1016/j.esr.2018.05.007. Abstract: Stand-alone photovoltaic systems provide a potentially sustainable option for rural electrification, but the design and management of these systems is a challenge. Here we examine the ability of dynamic (real-time) pricing in off-grid systems to improve the durability of the batteries used to store power. In a randomized controlled trial with a pre-paid solar micro-grid in rural India, we found that dynamic pricing did not improve technical performance or customer satisfaction. The best explanation for the null finding is that, for various reasons, households minimized their power consumption and there was thus little need for demand management. These findings suggest that the low demand for power is a key challenge for the profitability of pre-paid off-grid systems.
+* <u>Locked in flat tariffs? Energy retailers struggle in attracting customers to demand response through dynamic pricing</u> - Numminen, S., Ruggiero, S., Jalas, M. (5 October 2021). [International Sustainability Transitions Conference (IST) 2021](https://www.ist2021-karlsruhe.de/ist2021-en/index.php){:target="_ blank"}, Karlsruhe, Germany.
 
-* [Frugal energy innovations for developing countries – a framework](http://onlinelibrary.wiley.com/doi/10.1002/gch2.1012/full){:target="_ blank"} - Numminen, S., Lund, P.D. (2016). Global Challenges. John Wiley & Sons. doi:10.1002/gch2.1012. Abstract (extract): Frugal innovations have recently emerged to feature low-cost technologies and business innovations to serve consumers in emerging markets and improve their quality of life. Although the concept of frugality is well known, the present literature on frugal energy innovations, or energy frugality, is scarce, which could lead to overlooking its true characteristics. Therefore, we propose a framework for defining energy frugality based on a detailed analysis of several low-cost sustainable energy technologies. - - -
+* [Multilevel Customer Segmentation for Off-Grid Solar in Developing Countries: Evidence from Solar Home Systems in Rwanda and Kenya](http://www.sciencedirect.com/science/article/pii/S0360544219313854){:target="_ blank"} - Kennedy, R., Numminen, S., Sutherland, J., Urpelainen, J. (2019). Energy, vol 186, number 115728, doi:10.1016/j.energy.2019.07.058.
 
-* [Implications of frugal innovations on sustainable development: evaluating water and energy innovations](http://www.mdpi.com/2071-1050/8/1/4){:target="_ blank"} - Levänen, J., Hossain, M., Lyytinen, T., Hyvärinen, A., Numminen, S., Halme, M. (2016). Sustainability 2016, 8(1), 4; doi:10.3390/su8010004. Abstract (extract): Frugal innovations are often associated with sustainable development. These connections, however, are based on anecdotal assumptions rather than empirical evidence. This article evaluates sustainability of four frugal innovations from water and energy sectors. For the purposes of the evaluation a set of indicators was developed. Indicators are drawn from sustainable development goals by the United Nations and they encompass central dimensions of sustainability: ecological, social and economic. - - -
+* [Evaluation of the reliability of solar micro-grids in emerging markets – Issues and solutions](https://www.sciencedirect.com/science/article/pii/S0973082618311797?dgcid=author){:target="_ blank"} - Numminen, S., Lund, PD. (2019). Energy for Sustainable Development, vol 48, pages 34-42. doi:10.1016/j.esd.2018.10.006.
+
+* [Power availability and reliability of solar pico-grids in rural areas: a case study from northern India](https://www.sciencedirect.com/science/article/pii/S221313881730632X){:target="_ blank"} - Numminen, S., Lund, PD., Yoon, S., Urpelainen, J. (2018). Sustainable Energy Technologies and Assessments, vol 29, pages 147-154. doi:10.1016/j.seta.2018.08.005.
+
+* [An Evaluation of Dynamic Electricity Pricing for Solar Micro-Grids in Rural India](https://www.sciencedirect.com/science/article/pii/S2211467X18300506){:target="_ blank"} - Numminen, S., Yoon, S., Urpelainen, J., Lund, P.D. (2018). Energy Strategy Reviews vol 21, pages 130-136. doi:10.1016/j.esr.2018.05.007.
+
+* [Frugal energy innovations for developing countries – a framework](http://onlinelibrary.wiley.com/doi/10.1002/gch2.1012/full){:target="_ blank"} - Numminen, S., Lund, P.D. (2016). Global Challenges. John Wiley & Sons. doi:10.1002/gch2.1012.
+
+* [Implications of frugal innovations on sustainable development: evaluating water and energy innovations](http://www.mdpi.com/2071-1050/8/1/4){:target="_ blank"} - Levänen, J., Hossain, M., Lyytinen, T., Hyvärinen, A., Numminen, S., Halme, M. (2016). Sustainability 2016, 8(1), 4; doi:10.3390/su8010004.
 
 ## Presentations
+
+* {% imager front7.jpg|left|40% %} [How to talk about energy saving to energy-poor? Experiences from home advisory work of a European project Assist2gether](http://sininumminen.fi/assets/documents/SiniNumminen_ASSIST_How_to_talk_about_energy20210518.pdf) - Numminen, S. (18 May, 2021).  [Sustainability Science Days Conference 2021](https://www2.helsinki.fi/en/conferences/sustainability-science-days-conference-2021){:target="_ blank"} , Ses­sion 10: So­cial as­pects of the en­ergy trans­ition. Helsinki and Espoo, Finland.
+
+<div style="clear:both;"></div>
+<br>
+<div style="clear:both;"></div>
+
 * {% imager front6.jpg|left|40% %} [Energy for what? A look at users, uses, needs and solutions](http://sininumminen.fi/assets/documents/SiniNumminen_AaltoSustainabilityTalks20201127.pdf) - Numminen, S. (27 Nov, 2020).  [Aalto Sustainability Talks](http://sininumminen.fi/blog/Aalto-Sustainability-Talks-2020-presentation/), Aalto University Sustainability Hub, Espoo, Finland. Video recording will be available on [Youtube](https://www.youtube.com/channel/UCLIDbYJCT0oxtd2Esk0-OoQ).
 
 <div style="clear:both;"></div>
@@ -60,5 +75,32 @@ permalink: /Publications/
 <br>
 <br>
 <div style="clear:both;"></div>
+
+## Deliverables (ASSIST project)
+
+I contributed to following ASSIST project deliverables in 2020:
+
+* [Vulnerable Consumers Protection Framework Paper (D7.5)](http://sininumminen.fi/assets/documents/ASSIST/ASSIST2020_D75_policy_paper_vulnerable_consumers_protection_framework.pdf), May 2020
+
+* [Final report on HEA Network Activity, Saved Energy, and Increased Comfort Level (D4.7)](http://sininumminen.fi/assets/documents/ASSIST/ASSIST2020_D47_report_hea_network_activity_saved_energy_and_increased_comfort_level.pdf), May 2020
+
+* [HEA Training Follow-Up Report (D4.5)](http://sininumminen.fi/assets/documents/ASSIST/ASSIST2020_D45_report_hea_training.pdf), April 2020
+
+* [Final ASSIST Action Report (D5.5)](http://sininumminen.fi/assets/documents/ASSIST/ASSIST2020_D55_report_final_assist_actions.pdf), April 2020
+
+* [ASSIST Action National Reports (D5.3)](http://sininumminen.fi/assets/documents/ASSIST/ASSIST2020_D53_report_national_assist_actions.pdf), February 2020
+
+* [Kodin energiakysely 2019 – tuloksia Suomesta](http://sininumminen.fi/assets/documents/ASSIST/ASSIST2020_Finland_report_energypoverty_survey_FIN.pdf) (Report in Finnish on survey for vulnerable Finnish home owners), May 2020. [News bulletin](http://sininumminen.fi/assets/documents/ASSIST/ASSIST2020_Finland_bulletin_energypoverty_survey20200529.pdf) in English.
+
+* [Energy poverty in Finland: Webinar report 25 March 2020](ASSIST2020_Finland_report_energypoverty_webinar20200325.pdf), March 2020.
+
+For archiving purposes, here also other ASSIST project deliverables. I have not authored these, credits [ASSIST consortium](http://www.assist2gether.eu/), 2018.
+* [Vulnerable Consumers Market Segmentation Report (D5.1)](http://sininumminen.fi/assets/documents/ASSIST/ASSIST2018_D51_report_vulnerable_consumers_market_segmentation.pdf)
+* [Vulnerable Consumers and Fuel Poverty Report (D2.5)](http://sininumminen.fi/assets/documents/ASSIST/ASSIST2018_D25_report_vulnerable_consumers_and_fuel_poverty.pdf)
+* [European Market Survey on Vulnerable Consumer Needs (D2.4)](http://sininumminen.fi/assets/documents/ASSIST/ASSIST2018_D24_report_european_market_survey_on_vulnerable_consumer_needs.pdf)
+* [Replicable best practices. National and European measures (D2.3)](http://sininumminen.fi/assets/documents/ASSIST/ASSIST2018_D23_report_replicable_best_practice_national_and_european_measures.pdf)
+* [A summary of the National and European measures addressing vulnerable consumers and energy poverty (D2.2)](http://sininumminen.fi/assets/documents/ASSIST/ASSIST2018_D22_report_national_and_european_measures_addressing_vulnerable_consumers_and_energy_poverty.pdf)
+* [Best practice guide on financial measures (D2.1)](http://sininumminen.fi/assets/documents/ASSIST/ASSIST2018_D21_report_best_practice_guide_on_financial_measures.pdf)
+
 ## Teaching material (in Finnish)
 * [Energian perustarpeita Suomessa ja Intiassa](http://sininumminen.fi/opettajalle_energian_perustarpeita_Suomessa_ja_Intiassa/) - Numminen, S. (27. May, 2019). Opetusmateriaali (esityskalvot ja taustamateriaali) energian perustarpeista ja energian säästämisestä peruskouluille ja lukioille.
