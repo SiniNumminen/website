@@ -38,7 +38,7 @@ permalink: /Publications/
 
 * <b>Upcoming</b>: Smart off-grid infrastructure for the Global South?: A case study of Solar2Go in India - Numminen, S., Bandi, V., Sahrakorpi, T.
 
-* <u>Locked in flat tariffs? Energy retailers struggle in attracting customers to demand response through dynamic pricing</u> - Numminen, S., Ruggiero, S., Jalas, M. (5 October 2021). [International Sustainability Transitions Conference (IST) 2021](https://www.ist2021-karlsruhe.de/ist2021-en/index.php){:target="_ blank"}, Karlsruhe, Germany.
+* <u>Locked in flat tariffs? Energy retailers struggle in attracting customers to demand response through dynamic pricing</u> - Numminen, S., Ruggiero, S., Jalas, M. (5 October 2021). International Sustainability Transitions Conference (IST) 2021, Karlsruhe, Germany.
 
 * [Multilevel Customer Segmentation for Off-Grid Solar in Developing Countries: Evidence from Solar Home Systems in Rwanda and Kenya](http://www.sciencedirect.com/science/article/pii/S0360544219313854){:target="_ blank"} - Kennedy, R., Numminen, S., Sutherland, J., Urpelainen, J. (2019). Energy, vol 186, number 115728, doi:10.1016/j.energy.2019.07.058.
 
@@ -54,7 +54,7 @@ permalink: /Publications/
 
 ## Presentations
 
-* {% imager front7.jpg|left|40% %} [How to talk about energy saving to energy-poor? Experiences from home advisory work of a European project Assist2gether](http://sininumminen.fi/assets/documents/SiniNumminen_ASSIST_How_to_talk_about_energy20210518.pdf) - Numminen, S. (18 May, 2021).  [Sustainability Science Days Conference 2021](https://www2.helsinki.fi/en/conferences/sustainability-science-days-conference-2021){:target="_ blank"} , Ses­sion 10: So­cial as­pects of the en­ergy trans­ition. Helsinki and Espoo, Finland.
+* {% imager front7.jpg|left|40% %} [How to talk about energy saving to energy-poor? Experiences from home advisory work of a European project Assist2gether](http://sininumminen.fi/assets/documents/SiniNumminen_ASSIST_How_to_talk_about_energy20210518.pdf) - Numminen, S. (18 May, 2021).  [Sustainability Science Days Conference 2021](https://www2.helsinki.fi/en/conferences/sustainability-science-days-conference-2021){:target="_ blank"}, Ses­sion 10: So­cial as­pects of the en­ergy trans­ition. Helsinki and Espoo, Finland.
 
 <div style="clear:both;"></div>
 <br>
