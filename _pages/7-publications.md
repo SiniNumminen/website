@@ -34,9 +34,9 @@ permalink: /Publications/
 
 * <b>Upcoming</b>: Locked in flat tariffs. Energy retailers struggle with attracting customers to demand response through dynamic pricing - Numminen, S., Ruggiero, S. and Jalas, M.
 
-* <b>Upcoming</b>: Prime-time Access for whom? Reshaping the Rhythms of Consumption Through dynamic Pricing of Infrastructure Services - Jalas, M., Numminen, S.
-
 * <b>Upcoming</b>: Smart off-grid infrastructure for the Global South?: A case study of Solar2Go in India - Numminen, S., Bandi, V., Sahrakorpi, T.
+
+* [Prime-time access for whom? Rhythms fairness and the dynamic pricing of infrastructure services](https://www.tandfonline.com/doi/full/10.1080/13549839.2022.2040468){:target="_ blank"} - Jalas, M., Numminen, S. (2022). Local Environment, doi:10.1080/13549839.2022.2040468.
 
 * <u>Locked in flat tariffs? Energy retailers struggle in attracting customers to demand response through dynamic pricing</u> - Numminen, S., Ruggiero, S., Jalas, M. (5 October 2021). International Sustainability Transitions Conference (IST) 2021, Karlsruhe, Germany.
 
