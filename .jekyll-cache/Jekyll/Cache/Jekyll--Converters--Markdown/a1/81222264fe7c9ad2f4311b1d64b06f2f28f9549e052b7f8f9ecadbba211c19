@@ -1,4 +1,4 @@
-I";<div class="postlist" itemscope="itemscope" itemtype="http://schema.org/Blog">
+I"i<div class="postlist" itemscope="itemscope" itemtype="http://schema.org/Blog">
   <div class="row title-description">
     <p><img style="float: left; width: 100%; margin-right: 2%" class="img-responsive" src="/assets/images/posts/energyusersrow.jpg" /></p>
     <div style="clear:both;">
@@ -12,6 +12,30 @@
         <p>
 </p>
         <div class="row content">
+
+          <div class="wrap">
+            <div class="time-and-count-comments" datetime="2022-09-19">
+              <time class="time">
+
+
+
+
+
+September
+  
+19,
+2022
+
+</time>
+
+            </div>
+            <div class="url">
+              <h1>
+<a href="http://localhost:4000/blog/energiasaatiedote-huomenna-tuulee/">(in Finnish) Energiasäätiedote: huomenna tuulee – hyvä päivä viikkosiivota, imuroida, jopa sähkösaunoa! </a>
+</h1>
+              <p class="excerpted">Sähkön säästö on nyt ja ensi talvena jokaisen kansalaisen, yrityksen ja sähkönkäyttäjän vastuu ja velvollisuus. Sähkön käyttöä tulee vähentää laajasti ja luovasti: huomio on syytä ulottaa…<a href="http://localhost:4000/blog/energiasaatiedote-huomenna-tuulee/" class="continue"></a></p>
+            </div>
+          </div>
 
           <div class="wrap">
             <div class="time-and-count-comments" datetime="2022-03-23">
@@ -33,7 +57,7 @@ March
               <h1>
 <a href="http://localhost:4000/blog/connecting-house-plants-to-electricity-price-monitoring/">Connecting house plants to electricity price monitoring: A do-it-yourself (DIY) in-home-display (IHD) </a>
 </h1>
-              <p class="excerpted">My family is among the rare consumers (5-8%) still holding a market-based electricity tariff. I opted for it back in 2015 for climate and cost reasons,…<a href="http://localhost:4000/blog/connecting-house-plants-to-electricity-price-monitoring/" class="continue"></a></p>
+              <p class="excerpted">My family is among the rare consumers (5–8% in Finland) still holding a market-based electricity tariff. I opted for it back in 2015 for climate and…<a href="http://localhost:4000/blog/connecting-house-plants-to-electricity-price-monitoring/" class="continue"></a></p>
             </div>
           </div>
 

@@ -32,9 +32,7 @@ permalink: /Publications/
 
 ## Papers
 
-* <b>Upcoming</b>: Locked in flat tariffs. Energy retailers struggle with attracting customers to demand response through dynamic pricing - Numminen, S., Ruggiero, S. and Jalas, M.
-
-* <b>Upcoming</b>: Smart off-grid infrastructure for the Global South?: A case study of Solar2Go in India - Numminen, S., Bandi, V., Sahrakorpi, T.
+* [Locked in flat tariffs? An analysis of electricity retailers’ dynamic price offerings and attitudes to consumer engagement in demand response](https://doi.org/10.1016/j.apenergy.2022.12000){:target="_ blank"} - Numminen, S., Ruggiero, S. and Jalas, M. (2022). Applied Energy, https://doi.org/10.1016/j.apenergy.2022.12000
 
 * [Prime-time access for whom? Rhythms fairness and the dynamic pricing of infrastructure services](https://www.tandfonline.com/doi/full/10.1080/13549839.2022.2040468){:target="_ blank"} - Jalas, M., Numminen, S. (2022). Local Environment, doi:10.1080/13549839.2022.2040468.
 
