@@ -1,4 +1,4 @@
-I"i<div class="postlist" itemscope="itemscope" itemtype="http://schema.org/Blog">
+I"<div class="postlist" itemscope="itemscope" itemtype="http://schema.org/Blog">
   <div class="row title-description">
     <p><img style="float: left; width: 100%; margin-right: 2%" class="img-responsive" src="/assets/images/posts/energyusersrow.jpg" /></p>
     <div style="clear:both;">
@@ -12,6 +12,30 @@
         <p>
 </p>
         <div class="row content">
+
+          <div class="wrap">
+            <div class="time-and-count-comments" datetime="2022-09-28">
+              <time class="time">
+
+
+
+
+
+September
+  
+28,
+2022
+
+</time>
+
+            </div>
+            <div class="url">
+              <h1>
+<a href="http://localhost:4000/blog/tutkimus-energiakansalaisuudesta-sahkoyhtioiden-mielesta/">(in Finnish) Tutkimus energiakansalaisuudesta ja dynaamisesta sähkön hinnoittelusta </a>
+</h1>
+              <p class="excerpted">Teimme mielenkiintoisen energiamarkkinoiden asennetutkimuksen vuoden 2021 keväällä, jolloin tulevasta energiakriisistä monella tuskin oli harmainta aavistustakaan. Haastattelimme puolet Suomen sähkömarkkinoilla toimivista myyntiyhtiöistä, tarkoituksenamme selvittää, miten yhtiöt kokevat…<a href="http://localhost:4000/blog/tutkimus-energiakansalaisuudesta-sahkoyhtioiden-mielesta/" class="continue"></a></p>
+            </div>
+          </div>
 
           <div class="wrap">
             <div class="time-and-count-comments" datetime="2022-09-19">
