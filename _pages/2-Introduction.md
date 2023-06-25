@@ -35,7 +35,7 @@ permalink: /introduction/
 <br>
 <div style="clear:both;"></div>
 
-<b>Upcoming</b>: Posts, news and writings about energy, energy consumption and saving can be found on the new [Energy Blog](http://sininumminen.fi/blog). I will start this new blog in August 2020 with a special focus on the user side and energy demand issues.
+Posts, news and writings about energy, energy consumption and saving can be found on the new [Energy Blog](http://sininumminen.fi/blog). I started this new blog in August 2020 with a special focus on the user side and energy demand issues.
 
 Initially this website was created to disseminate information on my doctoral research project. [Blog Archive](http://sininumminen.fi/archive) contains posts, news 2017-2019 (my doctoral research project e.g. about India).
 

@@ -32,7 +32,9 @@ permalink: /Publications/
 
 ## Papers
 
-* [Locked in flat tariffs? An analysis of electricity retailers’ dynamic price offerings and attitudes to consumer engagement in demand response](https://doi.org/10.1016/j.apenergy.2022.12000){:target="_ blank"} - Numminen, S., Ruggiero, S. and Jalas, M. (2022). Applied Energy, https://doi.org/10.1016/j.apenergy.2022.12000
+* [Päälämmityslähteestä monilämmitykseen: suomalaisista pientaloista on tullut toisiaan täydentävien ja vuorottelevien energiajärjestelmien hybrideitä](https://doi.org/10.30663/ay.125979){:target="_ blank"} - Numminen, S., Silvikko de Villafranca, M. and Hyysalo, S. (2023). Alue ja Ympäristö, https://doi.org/10.30663/ay.125979 
+
+* [Locked in flat tariffs? An analysis of electricity retailers’ dynamic price offerings and attitudes to consumer engagement in demand response](https://doi.org/10.1016/j.apenergy.2022.120002){:target="_ blank"} - Numminen, S., Ruggiero, S. and Jalas, M. (2022). Applied Energy, https://doi.org/10.1016/j.apenergy.2022.120002
 
 * [Prime-time access for whom? Rhythms fairness and the dynamic pricing of infrastructure services](https://www.tandfonline.com/doi/full/10.1080/13549839.2022.2040468){:target="_ blank"} - Jalas, M., Numminen, S. (2022). Local Environment, doi:10.1080/13549839.2022.2040468.
 
