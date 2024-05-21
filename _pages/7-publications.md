@@ -32,7 +32,10 @@ permalink: /Publications/
 
 ## Papers
 
-* [Päälämmityslähteestä monilämmitykseen: suomalaisista pientaloista on tullut toisiaan täydentävien ja vuorottelevien energiajärjestelmien hybrideitä](https://doi.org/10.30663/ay.125979){:target="_ blank"} - Numminen, S., Silvikko de Villafranca, M. and Hyysalo, S. (2023). Alue ja Ympäristö, https://doi.org/10.30663/ay.125979 
+
+* [Energy vulnerability of detached home owners in Finland: An explorative study](https://doi.org/10.1016/j.enbuild.2024.114082){:target="_ blank"} - Numminen, S., Kajoskoski, T., Kaltampanidis, Y. and Jalas, M. (2024). Energy and Buildings, https://doi.org/10.1016/j.enbuild.2024.114082
+
+* [Päälämmityslähteestä monilämmitykseen: suomalaisista pientaloista on tullut toisiaan täydentävien ja vuorottelevien energiajärjestelmien hybrideitä](https://doi.org/10.30663/ay.125979){:target="_ blank"} - Numminen, S., Silvikko de Villafranca, M. and Hyysalo, S. (2023). Alue ja Ympäristö, https://doi.org/10.30663/ay.125979
 
 * [Locked in flat tariffs? An analysis of electricity retailers’ dynamic price offerings and attitudes to consumer engagement in demand response](https://doi.org/10.1016/j.apenergy.2022.120002){:target="_ blank"} - Numminen, S., Ruggiero, S. and Jalas, M. (2022). Applied Energy, https://doi.org/10.1016/j.apenergy.2022.120002
 
