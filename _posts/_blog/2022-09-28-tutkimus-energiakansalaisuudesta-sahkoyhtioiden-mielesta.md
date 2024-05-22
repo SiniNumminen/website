@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "(in Finnish) Tutkimus energiakansalaisuudesta ja dynaamisesta sähkön hinnoittelusta "
+title:  "Tutkimus energiakansalaisuudesta ja dynaamisesta sähkön hinnoittelusta "
 date:   2022-09-28 01:00:00 -0300
 categories: energy
 tags: ['sähkön myynti', 'sähkö', 'kulutusjousto', 'dynaaminen hinnoittelu', 'pörssisähkö', 'energiakansalaisuus', 'energiademokratia']

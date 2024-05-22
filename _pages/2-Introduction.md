@@ -35,9 +35,7 @@ permalink: /introduction/
 <br>
 <div style="clear:both;"></div>
 
-Posts, news and writings about energy, energy consumption and saving can be found on the new [Energy Blog](http://sininumminen.fi/blog). I started this new blog in August 2020 with a special focus on the user side and energy demand issues.
-
-Initially this website was created to disseminate information on my doctoral research project. [Blog Archive](http://sininumminen.fi/archive) contains posts, news 2017-2019 (my doctoral research project e.g. about India).
+Initially this website was created to disseminate information on my doctoral research project. [Blog Archive](https://sininumminen.fi/archive) contains posts e.g. from my research trips to India 2017–2019. More recent writings can be found from [Energy Blog](https://sininumminen.fi/blog) that I initiated in August 2020. This website also contains a H2020 [ASSIST project archive](https://sininumminen.fi/publications#head_ASSIST).
 
 <div style="clear:both;"></div>
 <br>
@@ -48,7 +46,7 @@ Initially this website was created to disseminate information on my doctoral res
 
 ### Sini Numminen, D.Sc. (Tech.)
 
-**Postdoctoral researcher** at the [Department of Design](https://www.aalto.fi/en/department-of-design){:target="_ blank"}, School of Arts, Design and Architecture, Aalto University and **Senior Analyst** at [VaasaETT](http://www.vaasaett.com){:target="_ blank"}, Finland.<br>
+**Postdoctoral researcher** at the [Department of Design](https://www.aalto.fi/en/department-of-design){:target="_ blank"}, School of Arts, Design and Architecture, Aalto University.<br>
 
 ### Education
 
@@ -64,7 +62,8 @@ Initially this website was created to disseminate information on my doctoral res
 ### Work experience
 
 * **Postdoctoral researcher**, NODUS research group, [Department of Design](https://www.aalto.fi/en/department-of-design){:target="_ blank"}, School of Arts, Design and Architecture, Aalto University, Espoo, Finland, 8/2020–<br>
-* **Senior Analyst**, [VaasaETT](http://www.vaasaett.com){:target="_ blank"}, Helsinki, Finland, 8/2019–<br>
+* **Research Associate**, [VaasaETT](http://www.vaasaett.com){:target="_ blank"}, Helsinki, Finland, 11/2021–<br>
+* **Senior Analyst**, [VaasaETT](http://www.vaasaett.com){:target="_ blank"}, Helsinki, Finland, 8/2019–8/2020<br>
 * **Doctoral candidate**, Department of Applied Physics, School of Science, Aalto University, Espoo, Finland, 2015–2019<br>
 * **Researcher**, European Distributed Energy Resources Laboratories (DERlab) e.V., Kassel, Germany, 2010–2014<br>
 
@@ -72,7 +71,7 @@ Initially this website was created to disseminate information on my doctoral res
 
 * **Lecturer of energy access/energy poverty/sustainable energy**<br> Various lectures at Aalto University courses, and Scientists in schools project (for Finnih primary, secondary and high school students), 2016–
 * **Course assistant**, Aalto University<br>
-Multi-disciplinary energy perspectives (PHYS-C1380), 2016, 2018, 2020<br>
+Multi-disciplinary energy perspectives (PHYS-C1380), 2016, 2018, 2020, 2022<br>
 Fundamentals of new energy sources (PHYS-C6370), 2016, 2020<br>
 Advances in new energy technologies (PHYS-E0483), 2015<br>
 * **Course developer/teaching assistant**, Helsinki University of Technology: Laboratory course for physics, 2004–2006

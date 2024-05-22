@@ -1,4 +1,4 @@
-I"<div class="postlist" itemscope="itemscope" itemtype="http://schema.org/Blog">
+I"�#<div class="postlist" itemscope="itemscope" itemtype="http://schema.org/Blog">
   <div class="row title-description">
     <p><img style="float: left; width: 100%; margin-right: 2%" class="img-responsive" src="/assets/images/posts/energyusersrow.jpg" /></p>
     <div style="clear:both;">
@@ -12,6 +12,54 @@
         <p>
 </p>
         <div class="row content">
+
+          <div class="wrap">
+            <div class="time-and-count-comments" datetime="2024-02-14">
+              <time class="time">
+
+
+
+
+
+February
+  
+14,
+2024
+
+</time>
+
+            </div>
+            <div class="url">
+              <h1>
+<a href="http://localhost:4000/blog/harha-puolesta-miljoonasta-sahkolammittajasta/">Harha puolesta miljoonasta sähkölämmittäjästä </a>
+</h1>
+              <p class="excerpted">Tilastot ovat tapa jäsentää maailmaa ja luovat pohjan politiikkatoimille. Yksikään ministeriö ei jätä viittaamatta tilastoituihin lukuihin. Kuinka suuri osa kansasta? Kuinka paljon muutosta edelliseen vuoteen verrattuna?…<a href="http://localhost:4000/blog/harha-puolesta-miljoonasta-sahkolammittajasta/" class="continue"></a></p>
+            </div>
+          </div>
+
+          <div class="wrap">
+            <div class="time-and-count-comments" datetime="2022-11-18">
+              <time class="time">
+
+
+
+
+
+November
+  
+18,
+2022
+
+</time>
+
+            </div>
+            <div class="url">
+              <h1>
+<a href="http://localhost:4000/blog/ensimmaisia-tuloksia-energiakyselysta-puolet-vastaajista-erittain-huolissaan/">Ensimmäisiä tuloksia energiakyselystä—puolet vastaajista erittäin huolissaan tulevaisuuden energian hinnoista </a>
+</h1>
+              <p class="excerpted">Keräsimme elo-syyskuussa suomalaisten näkemyksiä ja kokemuksia energian kustannuksista ja energiaremonteista. Saimme noin 5000 vastausta, mikä on huima määrä. Suuret kiitokset kaikille vastaajille! Kysymyksiä oli viisi sivua,…<a href="http://localhost:4000/blog/ensimmaisia-tuloksia-energiakyselysta-puolet-vastaajista-erittain-huolissaan/" class="continue"></a></p>
+            </div>
+          </div>
 
           <div class="wrap">
             <div class="time-and-count-comments" datetime="2022-09-28">
@@ -31,7 +79,7 @@ September
             </div>
             <div class="url">
               <h1>
-<a href="http://localhost:4000/blog/tutkimus-energiakansalaisuudesta-sahkoyhtioiden-mielesta/">(in Finnish) Tutkimus energiakansalaisuudesta ja dynaamisesta sähkön hinnoittelusta </a>
+<a href="http://localhost:4000/blog/tutkimus-energiakansalaisuudesta-sahkoyhtioiden-mielesta/">Tutkimus energiakansalaisuudesta ja dynaamisesta sähkön hinnoittelusta </a>
 </h1>
               <p class="excerpted">Teimme mielenkiintoisen energiamarkkinoiden asennetutkimuksen vuoden 2021 keväällä, jolloin tulevasta energiakriisistä monella tuskin oli harmainta aavistustakaan. Haastattelimme puolet Suomen sähkömarkkinoilla toimivista myyntiyhtiöistä, tarkoituksenamme selvittää, miten yhtiöt kokevat…<a href="http://localhost:4000/blog/tutkimus-energiakansalaisuudesta-sahkoyhtioiden-mielesta/" class="continue"></a></p>
             </div>
@@ -55,7 +103,7 @@ September
             </div>
             <div class="url">
               <h1>
-<a href="http://localhost:4000/blog/energiasaatiedote-huomenna-tuulee/">(in Finnish) Energiasäätiedote: huomenna tuulee – hyvä päivä viikkosiivota, imuroida, jopa sähkösaunoa! </a>
+<a href="http://localhost:4000/blog/energiasaatiedote-huomenna-tuulee/">Energiasäätiedote: huomenna tuulee – hyvä päivä viikkosiivota, imuroida, jopa sähkösaunoa! </a>
 </h1>
               <p class="excerpted">Sähkön säästö on nyt ja ensi talvena jokaisen kansalaisen, yrityksen ja sähkönkäyttäjän vastuu ja velvollisuus. Sähkön käyttöä tulee vähentää laajasti ja luovasti: huomio on syytä ulottaa…<a href="http://localhost:4000/blog/energiasaatiedote-huomenna-tuulee/" class="continue"></a></p>
             </div>

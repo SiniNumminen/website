@@ -79,7 +79,7 @@ permalink: /Publications/
 <br>
 <div style="clear:both;"></div>
 
-## Deliverables (ASSIST project)
+## <a name="head_ASSIST"></a>Deliverables (ASSIST project)
 
 I contributed to following ASSIST project deliverables in 2020:
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "(in Finnish) Energiasäätiedote: huomenna tuulee – hyvä päivä viikkosiivota, imuroida, jopa sähkösaunoa! "
+title:  "Energiasäätiedote: huomenna tuulee – hyvä päivä viikkosiivota, imuroida, jopa sähkösaunoa! "
 date:   2022-09-19 01:00:00 -0300
 categories: energy
 tags: ['energiasää', 'kulutuksenjousto', 'sääennuste', 'tuulisähkö', 'varoitus', merisää, 'sauna']
