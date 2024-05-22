@@ -35,7 +35,7 @@ permalink: /introduction/
 <br>
 <div style="clear:both;"></div>
 
-Initially this website was created to disseminate information on my doctoral research project. [Blog Archive](https://sininumminen.fi/archive) contains posts e.g. from my research trips to India 2017–2019. More recent writings can be found from [Energy Blog](https://sininumminen.fi/blog). This website also contains a H2020 [ASSIST project archive](https://sininumminen.fi/Publications#head_ASSIST).
+Initially this website was created to disseminate information on my doctoral research project. [Blog Archive](https://sininumminen.fi/archive) contains posts e.g. from my research trips to India 2017–2019. More recent writings can be found from [Energy Blog](https://sininumminen.fi/blog). This website also contains a H2020 [ASSIST project archive](https://sininumminen.fi/Publications#publications_ASSIST).
 
 <div style="clear:both;"></div>
 <br>

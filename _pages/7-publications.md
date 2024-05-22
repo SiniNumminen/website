@@ -79,7 +79,7 @@ permalink: /Publications/
 <br>
 <div style="clear:both;"></div>
 
-## <a name="head_ASSIST"></a>Deliverables (ASSIST project)
+## <a name="publications_ASSIST"></a>Deliverables (ASSIST project)
 
 I contributed to following ASSIST project deliverables in 2020:
 
@@ -97,7 +97,7 @@ I contributed to following ASSIST project deliverables in 2020:
 
 * [Energy poverty in Finland: Webinar report 25 March 2020](http://sininumminen.fi/assets/documents/ASSIST/ASSIST2020_Finland_report_energypoverty_webinar20200325.pdf), March 2020.
 
-For archiving purposes, here also other ASSIST project deliverables. I have not authored these, credits [ASSIST consortium](http://www.assist2gether.eu/), 2018.
+For archiving purposes, here also other ASSIST project deliverables. I have not authored these, credits [ASSIST consortium](https://cordis.europa.eu/project/id/754051), 2018.
 * [Vulnerable Consumers Market Segmentation Report (D5.1)](http://sininumminen.fi/assets/documents/ASSIST/ASSIST2018_D51_report_vulnerable_consumers_market_segmentation.pdf)
 * [Vulnerable Consumers and Fuel Poverty Report (D2.5)](http://sininumminen.fi/assets/documents/ASSIST/ASSIST2018_D25_report_vulnerable_consumers_and_fuel_poverty.pdf)
 * [European Market Survey on Vulnerable Consumer Needs (D2.4)](http://sininumminen.fi/assets/documents/ASSIST/ASSIST2018_D24_report_european_market_survey_on_vulnerable_consumer_needs.pdf)
