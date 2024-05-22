@@ -12,7 +12,7 @@ excerpted: |
 # Does not change and does not remove 'script' variables
 script: [post.js]
 ---
-Julkaistu [ORSI:n blogissa](https://www.ecowelfare.fi/2024/02/14/harha-puolesta-miljoonasta-sahkolammittajasta/) 14.2.2024
+Julkaistu [ORSI:n blogissa](https://www.ecowelfare.fi/2024/02/14/harha-puolesta-miljoonasta-sahkolammittajasta/){:target="_ blank"} 14.2.2024
 
 Sini Numminen
 

@@ -12,7 +12,7 @@ excerpted: |
 # Does not change and does not remove 'script' variables
 script: [post.js]
 ---
-Julkaistu [ORSI:n blogissa](https://www.ecowelfare.fi/2022/11/18/energiakysely-ensimmaiset-tulokset/) 18.11.2022
+Julkaistu [ORSI:n blogissa](https://www.ecowelfare.fi/2022/11/18/energiakysely-ensimmaiset-tulokset/){:target="_ blank"} 18.11.2022
 
 Sini Numminen
 
