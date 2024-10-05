@@ -25,10 +25,26 @@ script: [resume.js]
 
 permalink: /Projects/
 ---
+## Academy Research Fellowship 'EP-Nordic' 2024–2028
+
+[EP-Nordic](https://research.fi/en/results/funding/81440){:target="_ blank"} is an academy research fellowship, granted by the Research Council of Finland. I will study energy poverty and its risk factors in the Nordic countries. EP-Nordic produces new information, on how energy poverty is regionally distributed and how intense it is in each region. Sometimes energy poverty is hidden. Therefore, EP-Nordic critically assesses the currently utilized energy poverty measurement indicators' applicability to understand Nordic energy vulnerability. One research focus is on households using electricity for heating whose energy consumption patterns, and the impacts of timely-varying energy prices are studied. Research collaboration extends to Finland, Denmark, Sweden, Norway and the Netherlands. Finally, EP-Nordic produces analytical tools, with which Nordic energy poverty could be better identified and measured, taking local characteristics for example in energy markets, housing stock, energy infrastructures and important social and cultural factors into account.
+<div style="clear:both;">
+---
+</div>
+
+## Towards Eco-Welfare State ORSI 2021–
+
+In the coming decade, societies must adapt their activities to meet environmental limits. Finland must transform from a welfare state into an eco-welfare state. At the same time, we must ensure that our political goals and the practical measures we take to achieve them are as just and socially acceptable as possible. [The ORSI project](https://www.ecowelfare.fi/en/){:target="_ blank"}, funded by the Strategic Research Council, is looking to address these challenges. I am currently involved in the project activities through my postdoctoral researcher position at Aalto University.
+<div style="clear:both;">
+---
+</div>
 
 ## Digitally  Mediated  Decarbon  Communities  in  Energy  Transition (DigiDecarbon) 2022–2024
 
 The project by Aalto University, the University of Vaasa and the Finnish Environment Institute (SYKE) is investigating energy communities: what forms they take, how new business is created to serve them, and what kind of policies and steering measures and public sector support are targeted at energy communities. The research is based on developments in recent years that have made the production of renewable energy for own use the most affordable energy solution for many citizens. [The project](https://www.aalto.fi/en/news/academy-funding-future-energy-communities-and-energy-self-sufficiency?redirectFrom=node%2F546236){:target="_ blank"} (the grant number 348626) is funded by the Academy of Finland for Green and Digital Transition programme.
+<div style="clear:both;">
+---
+</div>
 
 
 ## Post Docs in Companies (PoDoCo) 2021–2022
@@ -50,15 +66,6 @@ Energy issues are often considered as distant by the general public; it is the r
 ---
 </div>
 
-## Towards Eco-Welfare State ORSI 2021–
-
-In the coming decade, societies must adapt their activities to meet environmental limits. Finland must transform from a welfare state into an eco-welfare state. At the same time, we must ensure that our political goals and the practical measures we take to achieve them are as just and socially acceptable as possible. [The ORSI project](https://www.ecowelfare.fi/en/){:target="_ blank"}, funded by the Strategic Research Council, is looking to address these challenges. I am currently involved in the project activities through my postdoctoral researcher position at Aalto University.
-<div style="clear:both;">
----
-</div>
-<div style="clear:both;">
----
-</div>
 
 ## Energy poverty project ASSIST 2017–2020
 
@@ -70,9 +77,7 @@ I have archived main project deliverables to [Publications](/Publications).
 <div style="clear:both;">
 ---
 </div>
-<div style="clear:both;">
----
-</div>
+
 
 ## Doctoral research project: The importance of frugal energy innovations in global energy transitions 2015–2019
 
@@ -108,9 +113,7 @@ Since 2017, I contributed in a [project](http://sais-isep.org/?p=1984){:target="
 <div style="clear:both;">
 ---
 </div>
-<div style="clear:both;">
----
-</div>
+
 
 ## A Frugal Innovation Approach to Dynamic Electricity Pricing in Rural India: A Field Experiment 2016–2017
 
@@ -119,9 +122,7 @@ blank"} of PV micro-grid supply and demand in Uttar Pradesh in India in collabor
 <div style="clear:both;">
 ---
 </div>
-<div style="clear:both;">
----
-</div>
+
 
 ## New Global of Aalto University 2015–2016
 

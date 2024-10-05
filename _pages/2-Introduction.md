@@ -46,7 +46,7 @@ Initially this website was created to disseminate information on my doctoral res
 
 ### Sini Numminen, D.Sc. (Tech.)
 
-**Postdoctoral researcher** at the [Department of Design](https://www.aalto.fi/en/department-of-design){:target="_ blank"}, School of Arts, Design and Architecture, Aalto University.<br>
+**Academy Research Fellow**, [NODUS sustainable design research group](https://www.aalto.fi/en/department-of-design/nodus-sustainable-design-research-group){:target="_ blank"}, [Department of Design](https://www.aalto.fi/en/department-of-design){:target="_ blank"}, School of Arts, Design and Architecture, Aalto University.<br>
 
 ### Education
 
@@ -61,7 +61,7 @@ Initially this website was created to disseminate information on my doctoral res
 
 ### Work experience
 
-* **Postdoctoral researcher**, NODUS research group, [Department of Design](https://www.aalto.fi/en/department-of-design){:target="_ blank"}, School of Arts, Design and Architecture, Aalto University, Espoo, Finland, 8/2020–<br>
+* **Postdoctoral researcher**, NODUS research group, [Department of Design](https://www.aalto.fi/en/department-of-design){:target="_ blank"}, School of Arts, Design and Architecture, Aalto University, Espoo, Finland, 8/2020–8/2024<br>
 * **Research Associate**, [VaasaETT](http://www.vaasaett.com){:target="_ blank"}, Helsinki, Finland, 11/2021–<br>
 * **Senior Analyst**, [VaasaETT](http://www.vaasaett.com){:target="_ blank"}, Helsinki, Finland, 8/2019–8/2020<br>
 * **Doctoral candidate**, Department of Applied Physics, School of Science, Aalto University, Espoo, Finland, 2015–2019<br>
