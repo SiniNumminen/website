@@ -34,7 +34,7 @@ permalink: /Projects/
 
 ## Towards Eco-Welfare State ORSI 2021–
 
-In the coming decade, societies must adapt their activities to meet environmental limits. Finland must transform from a welfare state into an eco-welfare state. At the same time, we must ensure that our political goals and the practical measures we take to achieve them are as just and socially acceptable as possible. [The ORSI project](https://www.ecowelfare.fi/en/){:target="_ blank"}, funded by the Strategic Research Council, is looking to address these challenges. I am currently involved in the project activities through my postdoctoral researcher position at Aalto University.
+In the coming decade, societies must adapt their activities to meet environmental limits. Finland must transform from a welfare state into an eco-welfare state. At the same time, we must ensure that our political goals and the practical measures we take to achieve them are as just and socially acceptable as possible. [The ORSI project](https://www.ecowelfare.fi/en/){:target="_ blank"}, funded by the Strategic Research Council, is looking to address these challenges.
 <div style="clear:both;">
 ---
 </div>
