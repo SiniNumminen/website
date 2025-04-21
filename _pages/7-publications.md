@@ -32,6 +32,8 @@ permalink: /Publications/
 
 ## Papers
 
+* [Characterizing Hybrid Heating in the Households: Diverse Configurational Arrangements premised on Citizen’s Agency and Peer-support](https://doi.org/10.1016/j.eist.2024.100958){:target="_ blank"} - Silvikko de Villafranca, M., Numminen, S. and Hyysalo, S. (2025). Environmental Innovation and Societal Transitions, https://doi.org/10.1016/j.eist.2024.100958
+
 * [Hybridization and accumulation of space-heating systems in Finnish detached housing](https://doi.org/10.1016/j.esr.2024.101435){:target="_ blank"} - Numminen, S., Silvikko de Villafranca, M. and Hyysalo, S. (2024). Energy Strategy Reviews, https://doi.org/10.1016/j.esr.2024.101435
 
 * [Energy vulnerability of detached home owners in Finland: An explorative study](https://doi.org/10.1016/j.enbuild.2024.114082){:target="_ blank"} - Numminen, S., Kajoskoski, T., Kaltampanidis, Y. and Jalas, M. (2024). Energy and Buildings, https://doi.org/10.1016/j.enbuild.2024.114082
