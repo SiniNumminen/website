@@ -31,4 +31,4 @@ permalink: /archive/
 </p>
 <div style="clear:both;">
 </div>
-## Archived: Posts, news and presentations 2017-2019 (my doctoral research project e.g. about India)
+## Archived: Posts, news and presentations 2017-2019 (my doctoral research project)

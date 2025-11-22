@@ -69,7 +69,7 @@ Initially this website was created to disseminate information on my doctoral res
 
 ### Teaching experience
 
-* **Lecturer of energy access/energy poverty/sustainable energy**<br> Various lectures at Aalto University courses, and Scientists in schools project (for Finnih primary, secondary and high school students), 2016–
+* **Giving lectures on energy access/energy poverty/sustainable energy**<br> Various lectures at Aalto University courses, and Scientists in schools project (for Finnish primary, secondary and high school students), 2016–
 * **Course assistant**, Aalto University<br>
 Multi-disciplinary energy perspectives (PHYS-C1380), 2016, 2018, 2020, 2022<br>
 Fundamentals of new energy sources (PHYS-C6370), 2016, 2020<br>

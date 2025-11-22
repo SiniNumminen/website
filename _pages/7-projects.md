@@ -28,11 +28,24 @@ permalink: /Projects/
 ## Academy Research Fellowship 'EP-Nordic' 2024–2028
 
 [EP-Nordic](https://research.fi/en/results/funding/81440){:target="_ blank"} is an academy research fellowship, granted by the Research Council of Finland. I will study energy poverty and its risk factors in the Nordic countries. EP-Nordic produces new information, on how energy poverty is regionally distributed and how intense it is in each region. Sometimes energy poverty is hidden. Therefore, EP-Nordic critically assesses the currently utilized energy poverty measurement indicators' applicability to understand Nordic energy vulnerability. One research focus is on households using electricity for heating whose energy consumption patterns, and the impacts of timely-varying energy prices are studied. Research collaboration extends to Finland, Denmark, Sweden, Norway and the Netherlands. Finally, EP-Nordic produces analytical tools, with which Nordic energy poverty could be better identified and measured, taking local characteristics for example in energy markets, housing stock, energy infrastructures and important social and cultural factors into account.
+
+<div style="clear:both;">
+</div>
+
+{% imager aka_en_vaaka_sininen.svg |left|70% %}
+
+<div style="clear:both;">
+<div style="clear:both;">
+---
+</div>
+<div style="clear:both;">
+---
+</div>
 <div style="clear:both;">
 ---
 </div>
 
-## Towards Eco-Welfare State ORSI 2021–
+## Towards Eco-Welfare State ORSI 2021–2025
 
 In the coming decade, societies must adapt their activities to meet environmental limits. Finland must transform from a welfare state into an eco-welfare state. At the same time, we must ensure that our political goals and the practical measures we take to achieve them are as just and socially acceptable as possible. [The ORSI project](https://www.ecowelfare.fi/en/){:target="_ blank"}, funded by the Strategic Research Council, is looking to address these challenges.
 <div style="clear:both;">

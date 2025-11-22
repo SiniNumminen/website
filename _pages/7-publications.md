@@ -26,11 +26,11 @@ script: [resume.js]
 permalink: /Publications/
 ---
 
-## Dissertation
-
-* [Reliability and sustainability analyses of frugal solar photovoltaic micro-grid systems in emerging markets]( https://aaltodoc.aalto.fi/handle/123456789/37842){:target="_ blank"}. Numminen, S. (2019). Aalto University publication series DOCTORAL DISSERTATIONS, 71/2019. ISBN: 978-952-60-8513-5 (electronic), 978-952-60-8512-8 (printed). Date of defense: 10 June, 2019.
-
 ## Papers
+
+* [Shifting toward dynamic pricing of electricity : What did we learn from the 2021–2024 energy crises?](https://doi.org/10.1016/j.segy.2025.100210){:target="_ blank"} - Numminen, S., Jalas, M., Ruggiero, S and Värä, A. (2025). Smart Energy, https://doi.org/10.1016/j.segy.2025.100210
+
+* [Who to turn to? : Information collaging and peer information in hybrid renewable adoption](https://doi.org/10.1016/j.clrc.2025.100322){:target="_ blank"} - Silvikko de Villafranca, M., Barat-Auleda, O., Numminen, S., Savolainen, K. and Hyysalo, S. (2025). Environmental Innovation and Societal Transitions, https://doi.org/10.1016/j.clrc.2025.100322
 
 * [Characterizing Hybrid Heating in the Households: Diverse Configurational Arrangements premised on Citizen’s Agency and Peer-support](https://doi.org/10.1016/j.eist.2024.100958){:target="_ blank"} - Silvikko de Villafranca, M., Numminen, S. and Hyysalo, S. (2025). Environmental Innovation and Societal Transitions, https://doi.org/10.1016/j.eist.2024.100958
 
@@ -58,7 +58,18 @@ permalink: /Publications/
 
 * [Implications of frugal innovations on sustainable development: evaluating water and energy innovations](http://www.mdpi.com/2071-1050/8/1/4){:target="_ blank"} - Levänen, J., Hossain, M., Lyytinen, T., Hyvärinen, A., Numminen, S., Halme, M. (2016). Sustainability 2016, 8(1), 4; doi:10.3390/su8010004.
 
+
+## Dissertation
+
+* [Reliability and sustainability analyses of frugal solar photovoltaic micro-grid systems in emerging markets]( https://aaltodoc.aalto.fi/handle/123456789/37842){:target="_ blank"}. Numminen, S. (2019). Aalto University publication series DOCTORAL DISSERTATIONS, 71/2019. ISBN: 978-952-60-8513-5 (electronic), 978-952-60-8512-8 (printed). Date of defense: 10 June, 2019.
+
 ## Presentations
+
+* {% imager front8.png|left|40% %} Kun asunnossa on liian kylmä tai liian kuuma, tai energia maksaa liikaa – Arvioita energiaköyhyyden syistä - Numminen, S. (28 October, 2025).  [Hiilineutraali-webinaari: Energiaköyhyys kaupungeissa ja maaseudulla Suomessa](https://hiilineutraalisuomi.syke.fi/hiilineutraali-webinaari-energiakoyhyys-kaupungeissa-ja-maaseudulla-suomessa-ti-28-10-klo-15-16/){:target="_ blank"}. Suomen Ympäristökeskus. Webinaarin tallenne myös ylläolevasta linkistä.
+
+<div style="clear:both;"></div>
+<br>
+<div style="clear:both;"></div>
 
 * {% imager front7.jpg|left|40% %} [How to talk about energy saving to energy-poor? Experiences from home advisory work of a European project Assist2gether](http://sininumminen.fi/assets/documents/SiniNumminen_ASSIST_How_to_talk_about_energy20210518.pdf) - Numminen, S. (18 May, 2021).  [Sustainability Science Days Conference 2021](https://www2.helsinki.fi/en/conferences/sustainability-science-days-conference-2021){:target="_ blank"}, Ses­sion 10: So­cial as­pects of the en­ergy trans­ition. Helsinki and Espoo, Finland.
 
