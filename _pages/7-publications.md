@@ -30,7 +30,7 @@ permalink: /Publications/
 
 * [Shifting toward dynamic pricing of electricity : What did we learn from the 2021–2024 energy crises?](https://doi.org/10.1016/j.segy.2025.100210){:target="_ blank"} - Numminen, S., Jalas, M., Ruggiero, S and Värä, A. (2025). Smart Energy, https://doi.org/10.1016/j.segy.2025.100210
 
-* [Who to turn to? : Information collaging and peer information in hybrid renewable adoption](https://doi.org/10.1016/j.clrc.2025.100322){:target="_ blank"} - Silvikko de Villafranca, M., Barat-Auleda, O., Numminen, S., Savolainen, K. and Hyysalo, S. (2025). Environmental Innovation and Societal Transitions, https://doi.org/10.1016/j.clrc.2025.100322
+* [Who to turn to? : Information collaging and peer information in hybrid renewable adoption](https://doi.org/10.1016/j.clrc.2025.100322){:target="_ blank"} - Silvikko de Villafranca, M., Barat-Auleda, O., Numminen, S., Savolainen, K. and Hyysalo, S. (2025). Cleaner and Responsible Consumption, https://doi.org/10.1016/j.clrc.2025.100322
 
 * [Characterizing Hybrid Heating in the Households: Diverse Configurational Arrangements premised on Citizen’s Agency and Peer-support](https://doi.org/10.1016/j.eist.2024.100958){:target="_ blank"} - Silvikko de Villafranca, M., Numminen, S. and Hyysalo, S. (2025). Environmental Innovation and Societal Transitions, https://doi.org/10.1016/j.eist.2024.100958
 
