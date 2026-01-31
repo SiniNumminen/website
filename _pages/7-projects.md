@@ -27,7 +27,17 @@ permalink: /Projects/
 ---
 ## Academy Research Fellowship 'EP-Nordic' 2024–2028
 
-[EP-Nordic](https://research.fi/en/results/funding/81440){:target="_ blank"} is an academy research fellowship, granted by the Research Council of Finland. I will study energy poverty and its risk factors in the Nordic countries. EP-Nordic produces new information, on how energy poverty is regionally distributed and how intense it is in each region. Sometimes energy poverty is hidden. Therefore, EP-Nordic critically assesses the currently utilized energy poverty measurement indicators' applicability to understand Nordic energy vulnerability. One research focus is on households using electricity for heating whose energy consumption patterns, and the impacts of timely-varying energy prices are studied. Research collaboration extends to Finland, Denmark, Sweden, Norway and the Netherlands. Finally, EP-Nordic produces analytical tools, with which Nordic energy poverty could be better identified and measured, taking local characteristics for example in energy markets, housing stock, energy infrastructures and important social and cultural factors into account.
+<div style="clear:both;">
+</div>
+
+{% imager photo_klaudiadenisov_web.jpg |left|100% %}
+<i>Photo: Klaudia Denisov</i>
+<div style="clear:both;">
+---
+</div>
+[EP-Nordic](https://www.aalto.fi/en/department-of-design/ep-nordic-research-project){:target="_ blank"} is an academy research fellowship project, funded by the [Research Council of Finland](https://research.fi/en/results/funding/81440){:target="_ blank"}. I will study energy poverty and its risk factors in the Nordic countries. EP-Nordic produces new information on the incidence, intensity and distribution of energy poverty. Sometimes energy poverty is hidden. Therefore, EP-Nordic critically assesses the currently utilized energy poverty measurement indicators' applicability to understand Nordic energy vulnerability. One research focus is on households using electricity for heating whose energy consumption patterns, and the impacts of timely-varying energy prices are studied. Research collaboration extends to Finland, Denmark, Sweden, Norway and the Netherlands. Finally, EP-Nordic produces analytical tools, with which Nordic energy poverty could be better identified and measured, taking local characteristics for example in energy markets, housing stock, energy infrastructures and important social and cultural factors into account.
+
+
 
 <div style="clear:both;">
 </div>
