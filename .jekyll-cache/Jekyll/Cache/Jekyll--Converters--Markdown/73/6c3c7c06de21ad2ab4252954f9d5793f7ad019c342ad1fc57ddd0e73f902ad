@@ -1,4 +1,4 @@
-I"/'<div class="postlist" itemscope="itemscope" itemtype="http://schema.org/Blog">
+I"{*<div class="postlist" itemscope="itemscope" itemtype="http://schema.org/Blog">
   <div class="row title-description">
     <p><img style="float: left; width: 100%; margin-right: 2%" class="img-responsive" src="/assets/images/posts/energyusersrow.jpg" /></p>
     <div style="clear:both;">
@@ -12,6 +12,30 @@
         <p>
 </p>
         <div class="row content">
+
+          <div class="wrap">
+            <div class="time-and-count-comments" datetime="2026-03-23">
+              <time class="time">
+
+
+
+
+
+March
+  
+23,
+2026
+
+</time>
+
+            </div>
+            <div class="url">
+              <h1>
+<a href="http://localhost:4000/blog/energiakoyhyys-on-laaja-ongelma-Suomessa/">Pureva pakkanen, pelkät sähköpatterit ja pienet tulot – energiaköyhyys on laaja ongelma Suomessa</a>
+</h1>
+              <p class="excerpted">Suomi on pohjoismainen hyvinvointivaltio, jossa kaikki eivät pysty lämmittämään kotiaan talvipakkasilla. Energiaköyhyydestä ei Suomessa puhuta, vaikka se koskettaa kymmeniä tuhansia, ellei satoja tuhansia ihmisiä maassamme. Kun…<a href="http://localhost:4000/blog/energiakoyhyys-on-laaja-ongelma-Suomessa/" class="continue"></a></p>
+            </div>
+          </div>
 
           <div class="wrap">
             <div class="time-and-count-comments" datetime="2024-05-28">
