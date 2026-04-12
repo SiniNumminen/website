@@ -28,6 +28,9 @@ permalink: /Publications/
 
 ## Papers
 
+
+* Under peer-review: [Crouching energy poverty, hidden heating costs: Applying energy poverty measurement in a Nordic country](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6429611){:target="_ blank"}. Numminen, S., Karhinen, S. & Ferreira, E. (2026). Pre-print. SSRN, https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6429611
+
 * [Shifting toward dynamic pricing of electricity : What did we learn from the 2021–2024 energy crises?](https://doi.org/10.1016/j.segy.2025.100210){:target="_ blank"} - Numminen, S., Jalas, M., Ruggiero, S and Värä, A. (2025). Smart Energy, https://doi.org/10.1016/j.segy.2025.100210
 
 * [Who to turn to? : Information collaging and peer information in hybrid renewable adoption](https://doi.org/10.1016/j.clrc.2025.100322){:target="_ blank"} - Silvikko de Villafranca, M., Barat-Auleda, O., Numminen, S., Savolainen, K. and Hyysalo, S. (2025). Cleaner and Responsible Consumption, https://doi.org/10.1016/j.clrc.2025.100322
@@ -37,6 +40,8 @@ permalink: /Publications/
 * [Hybridization and accumulation of space-heating systems in Finnish detached housing](https://doi.org/10.1016/j.esr.2024.101435){:target="_ blank"} - Numminen, S., Silvikko de Villafranca, M. and Hyysalo, S. (2024). Energy Strategy Reviews, https://doi.org/10.1016/j.esr.2024.101435
 
 * [Energy vulnerability of detached home owners in Finland: An explorative study](https://doi.org/10.1016/j.enbuild.2024.114082){:target="_ blank"} - Numminen, S., Kajoskoski, T., Kaltampanidis, Y. and Jalas, M. (2024). Energy and Buildings, https://doi.org/10.1016/j.enbuild.2024.114082
+
+* [Kerrostaloasukkaiden energiayhteisöt Suomessa: Toimenpidesuosituksia](http://hdl.handle.net/10138/576079){:target="_ blank"} - Enell-Nilsson, M., Faehnle, M., Hyysalo, S., Juntunen, J. Lukkarinen, J. Numminen, S. (2024). Suomen ympäristökeskus. Syke-hankkeiden julkaisuja, http://hdl.handle.net/10138/576079
 
 * [Päälämmityslähteestä monilämmitykseen: suomalaisista pientaloista on tullut toisiaan täydentävien ja vuorottelevien energiajärjestelmien hybrideitä](https://doi.org/10.30663/ay.125979){:target="_ blank"} - Numminen, S., Silvikko de Villafranca, M. and Hyysalo, S. (2023). Alue ja Ympäristö, https://doi.org/10.30663/ay.125979
 
