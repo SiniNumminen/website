@@ -28,6 +28,9 @@ permalink: /Publications/
 
 ## Papers
 
+* [Moving homes and energy poverty: residents’ concerns, capabilities and responses](https://doi.org/10.5334/bc.868) - Jalas, M., Rinkinen, J., Numminen, S. & Valkealahti, E. (2026). Buildings and Cities,  https://doi.org/10.5334/bc.868
+
+* [Radical decommodification for sufficiency? Exploring public support for Universal Basic Services in Finland](https://doi.org/10.1332/27528499Y2026D000000099)- Greselin, A., Hirvilammi, T. & Numminen, S. (2026) https://doi.org/10.1332/27528499Y2026D000000099 
 
 * Under peer-review: [Crouching energy poverty, hidden heating costs: Applying energy poverty measurement in a Nordic country](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6429611){:target="_ blank"}. Numminen, S., Karhinen, S. & Ferreira, E. (2026). Pre-print. SSRN, https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6429611
 
